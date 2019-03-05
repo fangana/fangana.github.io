@@ -19,5 +19,3 @@ defaults:
       layout: "default"
 
 theme: jekyll-theme-minimal
-
-github: [metadata] encoding: UTF-8 kramdown: input: GFM hard_wrap: false 
