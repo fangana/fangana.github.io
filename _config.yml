@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+title: alex an
+description: alex an blog
+
 defaults:
   - scope:
       path: ""

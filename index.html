@@ -10,9 +10,9 @@ title: Home
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <h1>Bum pum gum</h1>
+    <h1>Latest posts</h1>
     <ul>
-      {% for post in site.posts %}
+      {% for post in site.posts limit:3 %}
         <li>
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           <p>{{ post.excerpt }}</p>
