@@ -1,6 +1,6 @@
 ---
 short_name: physics
-name: Jill Smith
-position: Chief Editor
+name: Physics
+position: physi
 ---
-Jill is an avid fruit grower based in the south of France.
+physics rulez

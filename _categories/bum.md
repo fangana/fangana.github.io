@@ -1,6 +1,6 @@
 ---
 short_name: bum
-name: Ted Doe
-position: Writer
+name: Not Physics
+position: what
 ---
-Ted has been eating fruit since he was baby.
+Other posts -- delete these pages sometime soon
