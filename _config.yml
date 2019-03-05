@@ -8,9 +8,9 @@ description: alex an blog
 defaults:
   - scope:
       path: ""
-      type: "authors"
+      type: "categories"
     values:
-      layout: "author"
+      layout: "category"
   - scope:
       path: ""
       type: "posts"

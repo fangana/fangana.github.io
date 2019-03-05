@@ -1,13 +1,13 @@
 ---
 ---
-<h1>Staff</h1>
+<h1>Categories</h1>
 
 <ul>
-  {% for author in site.authors %}
+  {% for category in site.categories %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
+      <h2><a href="{{ category.url }}">{{ category.name }}</a></h2>
+      <h3>{{ category.position }}</h3>
+      <p>{{ category.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
