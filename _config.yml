@@ -1,9 +1,9 @@
 collections:
   categories:
-    output: true
 
 title: alex an
 description: alex an blog
+url: fangana.github.io
 
 defaults:
   - scope:
