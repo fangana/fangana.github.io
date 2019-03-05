@@ -1,9 +1,10 @@
 collections:
   categories:
+    output: true
 
 title: alex an
 description: alex an blog
-url: 
+url:
 
 defaults:
   - scope:
