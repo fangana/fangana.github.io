@@ -2,7 +2,7 @@
 title: About
 ---
 
-![alex an](/images/itsme.jpg "ALEX!!")
+![alex an](/images/itsme.jpg)
 
 # About me
 
