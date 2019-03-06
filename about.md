@@ -10,7 +10,7 @@ Fangzhao Alex An
 * Physics Graduate Student @ UIUC
   * Experimental cold atom physics
   * Mathematica
-  * [slither.io]
+  * [slither.io](slither.io)
 * Harvey Mudd College '14
   * ["Research"](/assets/vids/rotatinglight.mp4)
 
