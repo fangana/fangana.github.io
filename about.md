@@ -1,10 +1,13 @@
 ---
 title: About
 ---
-# About page
 
-This page tells you a little bit about me!!!
+![alex an](/images/itsme.jpg "ALEX!!")
 
-I don't know how to make websites!!!
+# About me
 
-[Curriculum Vitamin (May 2018)](/assets/docs/alexcv.pdf)
+Fangzhao Alex An
+
+[Curriculum Vitamin (updated Mar 2019)](/assets/docs/alexcv.pdf)
+
+# About this site
