@@ -4,14 +4,14 @@
     <!-- meta information -->
 <meta charset="utf-8">
 <meta name="description" 
-      content="Post Types  {% for type in site.types %}          {{ type.name }}      {{ type.position }}      {{ type.content | mar..." >
+      content="Post Categories  {% for type in site.types %}          {{ type.name }}      {{ type.content | markdownify }}      {% ..." >
 <meta name="author" content="alex an">
 
 <!-- Enable responsiveness on mobile devices-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 <!-- title -->
-<title>alex an blog</title>
+<title>Categories &middot; alex an blog</title>
 
 <!-- icons -->
 <link rel="shortcut icon" href="/assets/images/favicon.ico">
@@ -55,23 +55,19 @@
 
       </header>
 
-      <h1>Post Types</h1>
+      <h1>Post Categories</h1>
 
 <ul>
   
     <li>
       <h2><a href="/types/bum.html">Not Physics</a></h2>
-      <h3>what</h3>
       <p><p>Other posts – delete these pages sometime soon</p>
 </p>
     </li>
   
     <li>
       <h2><a href="/types/physics.html">Physics</a></h2>
-      <h3>physi</h3>
-      <p><p>physics rulez</p>
-
-<p>need to delete this page</p>
+      <p><p>Mainly things related to cold atoms/quantum gases, straight outta <a href="https://arxiv.org/list/cond-mat.quant-gas/recent">arXiv &gt; cond.mat.quant-gas</a>. Covers experimental advances in atomic physics and applications in quantum simulation of different models.</p>
 </p>
     </li>
   
@@ -80,7 +76,7 @@
 
       <footer>
         <p>
-          Jekyll theme: <a href="https://github.com/aigarsdz/brume">brume</a>
+          Site theme - <a href="https://github.com/aigarsdz/brume">brume</a>
         </p>
       </footer>
     </main>

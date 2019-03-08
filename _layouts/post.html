@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
 
-<p>
-  {{ page.date | date_to_string }}
-  {% assign type = site.types | where: 'short_name', page.type | first %}
-  {% if type %}
-    - <a href="{{ type.url }}">{{ type.name }}</a>
-  {% endif %}
-</p>
+<article class="single row gutters">
+  <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}
+    {% assign type = site.types | where: 'short_name', page.type | first %}
+    {% if type %}/ <a href="{{ type.url }}">{{ type.name }}</a>    {% endif %}
+  </time>
+  <h2>{{ page.title }}</h2>
 
-{{ content }}
+  {{ content }}
+</article>
