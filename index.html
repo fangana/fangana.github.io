@@ -10,8 +10,6 @@ title: Home
     <title>{{ page.title }}</title>
   </head>
   <body>
-    {% responsive_image path: assets/images/itsme.jpg %}
-
     <h1>Latest posts</h1>
     <ul>
       {% for post in site.posts limit:3 %}
