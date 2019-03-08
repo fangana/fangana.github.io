@@ -1,0 +1,13 @@
+---
+---
+<h1>Post Types</h1>
+
+<ul>
+  {% for type in site.types %}
+    <li>
+      <h2><a href="{{ type.url }}">{{ type.name }}</a></h2>
+      <h3>{{ type.position }}</h3>
+      <p>{{ type.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

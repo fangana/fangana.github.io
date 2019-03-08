@@ -5,9 +5,9 @@ layout: default
 
 <p>
   {{ page.date | date_to_string }}
-  {% assign category = site.categories | where: 'short_name', page.category | first %}
-  {% if category %}
-    - <a href="{{ category.url }}">{{ category.name }}</a>
+  {% assign type = site.types | where: 'short_name', page.type | first %}
+  {% if type %}
+    - <a href="{{ type.url }}">{{ type.name }}</a>
   {% endif %}
 </p>
 

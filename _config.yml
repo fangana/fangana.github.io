@@ -1,5 +1,5 @@
 collections:
-  categories:
+  types:
     output: true
 
 title: alex an blog
@@ -8,9 +8,9 @@ url:
 defaults:
   - scope:
       path: ""
-      type: "categories"
+      type: "types"
     values:
-      layout: "category"
+      layout: "type"
   - scope:
       path: ""
       type: "posts"
