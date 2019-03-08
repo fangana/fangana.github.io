@@ -21,6 +21,6 @@ defaults:
     values:
       layout: "default"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 repository: fangana/fangana.github.io
