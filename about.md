@@ -6,6 +6,8 @@ title: About
 
 ![alex an](/assets/images/itsme.jpg)
 
+{% responsive_image path: assets/images/itsme.jpg %}
+
 Fangzhao Alex An
 Physics Graduate Student @ UIUC
   * Experimental cold atom physics
