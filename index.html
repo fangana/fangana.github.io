@@ -1,23 +1,4 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
-
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <h1>Latest posts</h1>
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <h3>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <p>{{ post.excerpt }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-  </body>
-</html>

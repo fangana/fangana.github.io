@@ -8,6 +8,8 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
+    brume (1.1.2)
+      jekyll (~> 3.4)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -242,10 +244,8 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  brume
   github-pages
-  jekyll-feed
-  jekyll-seo-tag
-  jekyll-sitemap
 
 BUNDLED WITH
    2.0.1

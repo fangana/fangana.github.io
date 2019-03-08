@@ -3,6 +3,8 @@ collections:
     output: true
 
 title: alex an blog
+author: alex an
+description: alex an
 url:
 
 defaults:
@@ -21,6 +23,8 @@ defaults:
     values:
       layout: "default"
 
-theme: jekyll-theme-cayman
+theme: brume
 
 repository: fangana/fangana.github.io
+
+color_scheme: azul
