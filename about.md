@@ -7,13 +7,14 @@ title: About
 ![alex an](/assets/images/itsme.jpg)
 
 Fangzhao Alex An
+
 Physics Graduate Student @ UIUC
   * Experimental cold atom physics
   * Mathematica
   * [slither.io](http://slither.io)
 
 Harvey Mudd College '14
-  * ["Research" 03/11/2014 (cred to Obosa)](/assets/vids/rotatinglight.mp4)
+  * ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
 
 [Curriculum Vitamin (updated Mar 2019)](/assets/docs/alexcv.pdf)
 
