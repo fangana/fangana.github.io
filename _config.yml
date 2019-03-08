@@ -23,8 +23,6 @@ defaults:
     values:
       layout: "default"
 
-theme: brume
+remote_theme: aigarsdz/brume
 
 repository: fangana/fangana.github.io
-
-color_scheme: azul
