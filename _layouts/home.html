@@ -37,7 +37,6 @@ title: Home
 
   <article>
     <a href="{{ post.url | absolute_url }}" title="{{ post.title }}">{{ post.title }}</a>
-    {{post.type}}
     <div class="post-date">
       <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%-d %B" }}</time>
     </div>

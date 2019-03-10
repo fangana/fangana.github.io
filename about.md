@@ -2,12 +2,11 @@
 title: About
 ---
 
-## About me
+# About me
 
 ![alex an](/assets/images/itsme.jpg)
 
-Fangzhao Alex An
-
+## Fangzhao Alex An
 Physics Graduate Student @ UIUC
   * Experimental cold atom physics
   * Mathematica
@@ -18,8 +17,7 @@ Harvey Mudd College '14
 
 [Curriculum Vitamin (updated Mar 2019)](/assets/docs/alexcv.pdf)
 
-## About this site
-
+# About this site
 My main goal here is to write about recent physics developments/papers in my field (cold atoms), in order to...
 1. Read more papers
 2. Remember the papers I've read
@@ -29,5 +27,5 @@ I've always loved writing final papers for science classes, viewing it as distil
 
 This is inspired by a youtube series by WIRED called ["5 Levels"](https://www.youtube.com/playlist?list=PLibNZv5Zd0dyCoQ6f4pdXUFnpAIlKgm3N) which I think is a great concept, but is often terrible in practice for many reasons (general public audience, very broad subjects, little science detail). Hopefully one day I'll write something about this video series because I have many gripes with it, despite it doing some great work for science communication.
 
-## About my work
+# About my work
 ![TOTALLY](/assets/vids/lasers.gif)
