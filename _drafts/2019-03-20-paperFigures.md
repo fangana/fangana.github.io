@@ -1,5 +1,4 @@
 ---
-type: junk
 title: Bad paper figures
 excerpt: A few things that I don't like seeing in figures in papers.
 ---

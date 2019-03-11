@@ -1,5 +1,4 @@
 ---
-type: physics
 title: Topological Creutz Ladder in a Resonantly Shaken 1D Optical Lattice
 excerpt: Topology by way of shaken lattices and synthetic dimensions.
 ---
