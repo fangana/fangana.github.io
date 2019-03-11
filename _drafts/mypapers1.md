@@ -1,10 +1,11 @@
 ---
-title: My Papers &#35;1: Momentum-space lattices
+title: My Papers &#35;1&#58; Momentum-space lattices
 excerpt: Cold atoms in momentum-space lattices
+tags: [physics, my papers]
 ---
-Title: Atom-optics simulator of lattice transport phenomena
-Link: [arXiv:1601.05785](https://arxiv.org/abs/1601.05785)
-Date: Jan 21, 2016
+* Title: Atom-optics simulator of lattice transport phenomena
+* [arXiv:1601.05785](https://arxiv.org/abs/1601.05785)
+* Jan 21, 2016
 
 Written at a physics undergrad level?
 

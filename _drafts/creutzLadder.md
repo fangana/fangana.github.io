@@ -11,6 +11,8 @@ By shaking a lattice at half the resonant frequency (two-photon transition), the
 
 This work is heavily based on a proposal by Qi Zhou and his postdoc Shaoliang Zhang ([arXiv:1403.0210](https://arxiv.org/abs/1403.0210)) and this group's previous work detailing the lattice-orbital-based synthetic dimension ([arXiv:1807.01444](https://arxiv.org/abs/1807.01444)), both of which I didn't read but definitely should have.
 
+
+
 ## Summary [undergrad level]
 
 
