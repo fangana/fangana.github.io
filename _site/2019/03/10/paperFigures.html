@@ -30,6 +30,18 @@
 <!-- feed links -->
 <link rel="alternate" href="http://localhost:4000/feed.xml" type="application/rss+xml" title="alex an blog">
 
+<!-- Mathjax Support -->
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
   </head>
   <body>
     <main class="container avocado">
@@ -62,12 +74,7 @@
      -->
     
   </time>
-
-
   <h2>Bad paper figures</h2>
-
-
-
   <p>When I read a paper, I start with the title/abstract, and then go right to the figures. When I write a paper, I start by making the figures, and fill in the rest of the paper around them. The figures are by far the most important part of any (experimental) paper, and poor layout/presentation can make even strong results look weak.</p>
 
 <p>There are many basic tenets to presenting data in a figure:</p>

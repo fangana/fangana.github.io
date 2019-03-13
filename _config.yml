@@ -6,6 +6,7 @@ title: alex an blog
 author: alex an
 description: alex an
 url:
+markdown: kramdown
 
 defaults:
   - scope:

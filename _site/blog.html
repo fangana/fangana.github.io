@@ -30,6 +30,18 @@
 <!-- feed links -->
 <link rel="alternate" href="http://localhost:4000/feed.xml" type="application/rss+xml" title="alex an blog">
 
+<!-- Mathjax Support -->
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
   </head>
   <body>
     <main class="container avocado">
@@ -58,6 +70,11 @@
       <h1>Physics Posts</h1>
 
 <ul>
+  
+    <li>
+      <h3>12 Mar 2019: <a href="/2019/03/12/mypapers0.html">My Papers &#35;1&#58; An overview</a></h3>
+      <p>Cold atoms in momentum-space lattices</p>
+    </li>
   
     <li>
       <h3>10 Mar 2019: <a href="/2019/03/10/mypapers1.html">My Papers &#35;1&#58; Momentum-space lattices</a></h3>

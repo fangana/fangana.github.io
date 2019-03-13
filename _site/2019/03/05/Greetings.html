@@ -30,6 +30,18 @@
 <!-- feed links -->
 <link rel="alternate" href="http://localhost:4000/feed.xml" type="application/rss+xml" title="alex an blog">
 
+<!-- Mathjax Support -->
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
   </head>
   <body>
     <main class="container avocado">
@@ -62,12 +74,7 @@
      -->
     
   </time>
-
-
   <h2>Hello</h2>
-
-
-
   <p>Welcome to my website.</p>
 
 <p>This website was born out of a desire to write about some physics stuff but now that I’ve spent so long trying to get jekyll to work I don’t want to write about science.</p>
