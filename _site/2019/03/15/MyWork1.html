@@ -4,14 +4,14 @@
     <!-- meta information -->
 <meta charset="utf-8">
 <meta name="description" 
-      content="  Atom-optics simulator of lattice transport phenomena  Eric Meier, ME, and Bryce Gadway  arXiv:1601.05785  Jan 21, 2..." >
+      content="  Atom-optics simulator of lattice transport phenomena  Eric Meier, ME, and Bryce Gadway  Phys. Rev. A 93 (2016)  arX..." >
 <meta name="author" content="alex an">
 
 <!-- Enable responsiveness on mobile devices-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
 <!-- title -->
-<title>My Papers &#35;1&#58; An overview &middot; alex an blog</title>
+<title>My Work &#35;1&#58; Momentum-space lattices &middot; alex an blog</title>
 
 <!-- icons -->
 <link rel="shortcut icon" href="/assets/images/favicon.ico">
@@ -80,12 +80,12 @@
     my papers
     
   </time>
-  <h2>My Papers &#35;1&#58; An overview</h2>
+  <h2>My Work &#35;1&#58; Momentum-space lattices</h2>
   <ul>
   <li>Atom-optics simulator of lattice transport phenomena</li>
   <li>Eric Meier, <strong>ME</strong>, and Bryce Gadway</li>
+  <li><em>Phys. Rev. A</em> <strong>93</strong> (2016)</li>
   <li><a href="https://arxiv.org/abs/1601.05785">arXiv:1601.05785</a></li>
-  <li>Jan 21, 2016</li>
 </ul>
 
 <p>In the spirit of trying to explain complicated physics nonsense (the point of this site), I’ll start with my own work in the Gadway lab. In this series of posts, I will explain each of my studies at a more easily digestible level, giving a short 1-2 paragraph summary and filling in the minimum background necessary. However, this first post might need a bit more background…</p>
@@ -134,18 +134,20 @@
 
 <p>One thing to note is that each horizontal line in this plot is a separate data run (actually an average of several). Our measurement destroys the BEC, so we need to repeat the experiment many times at different times to see the full motion.</p>
 
-<p><img src="/assets/images/mp1_tiltedlattice.png" alt="drawing" /></p>
+<p><img src="/assets/images/mp1_tiltedlat.png" alt="drawing" /></p>
 
 <p>A lattice with a tilt: each site is $\Delta E = \hbar\xi$ (this choice of variable was terrible) away from its neighbors. Classically, this is putting a ball on a slope: it rolls downhill. In the quantum world and in a lattice, atoms don’t just keep moving downhill but instead show oscillations, in a great display of how weird the quantum world can be. These <em>Bloch oscillations</em> are a byproduct of the periodic structure of the lattice, and the oscillation frequency depends directly on the magnitude of the tilt: fig. (c) shows us tilting at three different values.</p>
 
 <p>An aside:
 Usually for real space lattices people talk about the <em>band structure</em> of the lattice, or how the energy of the lattice states depend on the momentum, $E(k)$. This is periodic like the position, so it results in oscillations. In our confusingly-named momentum-space lattice, we can still think about band structure, but at one extra level of abstraction: because our sites are spaced in momentum, perhaps the band structure should then be the Fourier transform… position? This is generally just too confusing to talk about, so I just say it’s $E(k)$ or $E(q)$ anyway ($q$ is <em>quasimomentum</em>, or momentum in a lattice).</p>
 
-<p><img src="/assets/images/mp1_tunnelingreversal.png" alt="drawing" /></p>
+<p><img src="/assets/images/mp1_tunreversal.png" alt="drawing" /></p>
 
 <p>Finally, we switched all the tunneling phases halfway through to show two very nice aspects of our momentum space setup: we can control tunneling phases (important for studying topology, which we later did!), and we can control lattice parameters precisely as a function of time. Figs. b-d show faster tunneling switching, until it’s so fast that atoms don’t have the change to move before they get turned around.</p>
 
 <p>This I think was the birth of me and Eric’s obsession with designing and making figures. Look at that shaded area - simple and elegant!</p>
+
+<hr />
 
 <h2 id="conclusion">Conclusion</h2>
 
