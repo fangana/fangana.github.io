@@ -4,6 +4,13 @@ excerpt: Cool stuff from DAMOP 2019: Milwaukee edition
 tags: [physics, talks]
 ---
 
+I just got back from Milwaukee (DAMOP 2019), and like every year I go, I've come back star-struck at the amazing work other groups are doing. At some times it seems like only Boulder, Munich, and CUA (MIT/Harvard) really matter because the results flying out of the groups there never fail to impress.
+
+The hot new things this year, at least in my eyes, are definitely still [quantum gas microscopes]({{ site.baseurl }}{% post_url 2019-03-06-QGMs %}) and **optical tweezer arrays**. In particular, the talk by Ahmed Omran from the Lukin group really blew me away ([arXiv:1905.05721](https://arxiv.org/abs/1905.05721)).
+
+
+
+Not only are they making entangled states of record size, but they're also making spatially-separated entanglement
 
 
 
