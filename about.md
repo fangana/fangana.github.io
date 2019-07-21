@@ -17,6 +17,8 @@ Harvey Mudd College '14
 
 [Curriculum Vitamin (updated Mar 2019)](/assets/docs/alexcv.pdf)
 
+Contact: faan2 at illinois dot edu
+
 # About this site
 My main goal here is to write about recent developments/papers in my field (cold atoms), in order to...
 1. Read more papers
