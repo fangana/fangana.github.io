@@ -347,6 +347,8 @@ footer {
 /* fix maximum size of an image AND center */
 img[alt=drawing] { width: 400px;  margin: 0 auto; display: block; }
 
+/* fix maximum size of an image AND center */
+img[alt=bumbo] { width: 600px;  margin: 0 auto; display: block; }
 
 /*
 ================================================================================
