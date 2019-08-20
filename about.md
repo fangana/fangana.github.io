@@ -7,7 +7,8 @@ title: About
 ![alex an](/assets/images/itsme.jpg)
 
 ## Fangzhao Alex An
-Physics Graduate Student @ UIUC [faan2 at illinois dot edu]
+Physics Graduate Student @ UIUC
+  * faan2 at illinois dot edu
   * Experimental cold atom physics
   * Mathematica
   * Boba
@@ -15,7 +16,7 @@ Physics Graduate Student @ UIUC [faan2 at illinois dot edu]
 Harvey Mudd College '14
   * ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
 
-[Curriculum Vitamin (updated July 2019)](/assets/docs/alexcv.pdf)
+[Curriculum Vitamin (updated August 2019)](/assets/docs/alexcv.pdf)
 
 # About this site
 My main goal here is to write about recent developments/papers in my field (cold atoms), in order to...

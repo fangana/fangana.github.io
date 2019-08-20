@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- meta information -->
+<meta charset="utf-8">
+<meta name="description" 
+      content="Because I wrote a very long explanation about my first work, here I’ll overcompensate and write a very condensed revi..." >
+<meta name="author" content="alex an">
+
+<!-- Enable responsiveness on mobile devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<!-- title -->
+<title>My Work &#35;X&#58; everything else &middot; alex an blog</title>
+
+<!-- icons -->
+<link rel="shortcut icon" href="/assets/images/favicon.ico">
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="/assets/css/responsive.gs.12col.css">
+<link rel="stylesheet" href="/assets/css/animate.min.css">
+<link rel="stylesheet" href="/assets/css/syntax.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!-- Google fonts -->
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic&subset=latin-ext">
+
+
+
+<!-- feed links -->
+<link rel="alternate" href="http://localhost:4000/feed.xml" type="application/rss+xml" title="alex an blog">
+
+<!-- Mathjax Support -->
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+  </head>
+  <body>
+    <main class="container avocado">
+      
+      <header>
+      
+        <div>
+          <a href="http://localhost:4000" id="logo" title="alex an blog"
+             style="background-image: url(/assets/images/myface.png);"></a>
+        </div>
+
+        <nav id="main-navigation">
+  
+  
+  <a href="/" title="Home">Home</a>
+  
+  
+  
+  <a href="/about.html" title="About">About</a>
+  
+  
+</nav>
+
+      </header>
+
+      <article class="single row gutters">
+  <time class="published" datetime="2019-08-19">
+    19 August 2019
+    <!-- 
+     -->
+    
+     / Tags:
+    physics,
+    
+    
+    my papers
+    
+  </time>
+  <h2>My Work &#35;X&#58; everything else</h2>
+  <p>Because I wrote a very long explanation about <a href="/2019/03/15/MyWork1.html">my first work</a>, here I’ll overcompensate and write a very condensed review of the rest of the work I’ve done. In some sense, this accurately reflects my talks and presentations of my work: half of the time is necessarily devoted to explaining the momentum-space lattice (<strong>MSL</strong>) platform, and the actual experiments get squished into the second half. Of course, this never fails to glaze eyes so I expect this post to do the same.</p>
+
+<hr />
+<h2 id="quick-momentum-space-lattice-overview">Quick momentum-space lattice overview</h2>
+
+<h3 id="the-point">The point</h3>
+<p>We want to study quantum systems, which are hard to simulate with the limited computing power of classical computers. So what better way to study quantum, but with quantum? The buzzword here is <strong>quantum simulation</strong>.</p>
+
+<p>So, we take atoms and put them in a (optical) lattice, so that it’s a quantum particle seeing a periodic potential. This mimics any lattice system, like electrons in a solid, where the periodic potential comes from the regularly spaced atoms (nuclei) of the solid. And because this atom+lattice system is really tunable, it can also be used to study lattice systems that you can’t really create in a real material.</p>
+
+<h3 id="the-setup">The setup</h3>
+<p>The usual way to make an optical lattice for atoms is to shine a laser beam at the atoms, and put a mirror on the other side. This makes a standing wave, and if the laser frequency is just below some internal transition of the atom, the atoms see a periodic potential.</p>
+
+<p>Alternatively, and more arduously, you can shine individual (optical trapping/tweezer) laser beams for individual lattice sites. So for example, you can trap one atom with one beam, and another atom in a second beam. If these beams are close enough, the atoms can tunnel between these “lattice sites”, and by adding more beams, you add more lattice sites to make a full lattice.</p>
+
+<p>What we do is similar, but instead of connecting atoms in different spatial positions, we connect atoms with different momenta. These momentum states of the atoms have different energies, so we can connect them by tuning our laser fields to the appropriate energy/frequency differences between the states. This momentum-space lattice technique allows for even finer control over the lattice parameters as compared to real-space lattices, letting us perform studies that other groups would find hard or impossible to do.</p>
+
+<hr />
+<h2 id="the-works">The works</h2>
+
+<h3 id="1-quantum-walks-arxiv">1. <a href="https://doi.org/10.1103/PhysRevA.93.051602">Quantum walks</a> [<a href="https://arxiv.org/abs/1601.05785">arXiv</a>]</h3>
+<p>I already <a href="/2019/03/15/MyWork1.html">wrote about the first paper</a>, which was on quantum walks and a sort of proof-of-concept paper.</p>
+
+<h3 id="2-ssh-model-topology-in-1d">2. <a href="https://doi.org/10.1038/ncomms13986">SSH model: topology in 1D</a></h3>
+
+<p><img src="/assets/images/mpx_ssh.png" alt="drawing" /></p>
+
+<p>We made a lattice with alternating tunneling link strengths (<strong>Su-Schrieffer-Heeger model</strong>) and showed its topological properties. In general, something is topological if you need to make a measurement of the entire system to figure out what’s going on, rather than a local measurement. This often translates into “stuff on the edge of the system is different from stuff in the bulk.” In 2D this shows up as conducting states on the edge and insulating states in the bulk.</p>
+
+<p>In 1D, the “edges” are the lattice sites at the end of the lattice, and we showed that these sites support localized states while the bulk shows delocalized, conducting states. This was the first cold atom realization of the SSH model, and was the first big physics goal for the MSL system.</p>
+
+<h3 id="3-topology-in-2d">3. <a href="https://doi.org/10.1126/sciadv.1602685">Topology in 2D</a></h3>
+
+<p>Here, we made a “2D” system with topology, mimicking the behavior of an electron on a lattice under a magnetic field. This is the <strong>(integer) quantum Hall system</strong>, where electrons in the bulk undergo localized orbits while electrons on the edge flow around the edge in “chiral currents.”</p>
+
+<p style="font-size: 80%; text-align: center;"><img src="/assets/images/mpx_2leg.png" alt="drawing" />
+A “2D” system, with data!</p>
+
+<p>Experimentally, this was a lot tougher than the 1D studies we had done previously, and we had to introduce a second laser for the lattice in the second dimension. The experimental challenges (lack of laser phase stabilization…) also meant that I had to limit my system to a tiny, tiny 2x5 geometry, meaning that the system was all edge and no bulk. Still, we showed that we could vary the effective magnetic field strength and control which way the edge currents ran (clockwise or counterclockwise).</p>
+
+<p>Another cool thing we did was combine a topological region with a non-topological region, and we showed that atoms would “bounce” off the barrier between the two, despite having no sort of wall or potential difference between the two.</p>
+
+<h3 id="4-different-forms-of-disorder">4. <a href="https://doi.org/10.1038/s41467-017-00387-w">Different forms of disorder</a></h3>
+
+<p>In addition to studying topology, we also wanted to look at disordered systems. Here, we implemented two different forms of disorder: quasiperiodic site-energy disorder (<strong>Aubry-Andre model</strong>) and tunneling phase disorder that varies in time (mimicking coupling to a thermal bath). The first showed total localization with increasing disorder, and the second showed diffusive behavior indicative of a classical random walk.</p>
+
+<p>This was the beginning of my long affair with the Aubry-Andre model, which exhibits a localization transition at some finite disorder strength.</p>
+
+<h3 id="5-interactions-arxiv">5. <a href="https://doi.org/10.1103/PhysRevLett.120.040407">Interactions</a> [<a href="https://arxiv.org/abs/1708.01237">arXiv</a>]</h3>
+
+<p>Atomic interactions are what make quantum simulation “interesting” – without interactions between particles, you can exactly solve and describe the system with something like Mathematica, which defeats the purpose of going to a quantum system. However, it wasn’t obvious that interactions would play a nontrivial role in momentum space.</p>
+
+<p>Turns out, they do. Due to quantum statistics, you get more interaction energy between distinguishable particles than between indistinguishable particles, etc. … so you can say that atoms in the same momentum state feel an attractive interaction. We verified this experimentally!</p>
+
+<h3 id="6-zigzag-lattice">6. <a href="https://doi.org/10.1103/PhysRevX.8.031045">Zigzag lattice</a></h3>
+
+<p style="font-size: 80%; text-align: center;"><img src="/assets/images/mpx_zigzag.png" alt="drawing" />A zigzaggy lattice</p>
+
+<p>This was a sort of meandering study that was the second step of my inescapable affair with the Aubry-Andre model. On one hand, we made the first “zigzag” lattice in cold atoms (b) out of a 1D lattice with next-nearest-neighbor links (a). This was similar to paper #3 since it was another ladder with topology.</p>
+
+<p>To spice it up, we added Aubry-Andre disorder, to look at the combination of disorder AND topology. While a total 1D disordered system showed localization for all energy states, this zigzag system showed localization happening at different points for different states. This behavior of state-dependent localization is called a <strong>mobility edge</strong>.</p>
+
+<h3 id="7-ssh--disorder-arxiv">7. <a href="https://doi.org/10.1126/science.aat3406">SSH + disorder</a> [<a href="https://arxiv.org/abs/1802.02109">arXiv</a>]</h3>
+
+<p>Maybe besides paper #2 on the SSH model, this has been the biggest result of our lab, and the coolest. Topology is known to be robust to disorder: if you disturb a topological system a bit, the topological character stays put. Of course, if you add too much disorder the topology dies out.</p>
+
+<p>But, it turns out that under certain parameter values, the SSH model can go from non-topological to topological by adding (tunneling/off-diagonal) disorder, which is totally unintuitive. We made and measured this “topological Anderson insulator” in experiment!</p>
+
+<h3 id="8-losers">8. <a href="https://doi.org/10.1088/1367-2630/ab1147">Losers</a></h3>
+
+<p>This was a quick computational + experimental project on implementing particle loss in our system. Basically, we can create a lattice site with “loss” by really strongly coupling that site to a reservoir. This picture will explain it better than I could ever do with words:</p>
+
+<p style="font-size: 80%; text-align: center;"><img src="/assets/images/mpx_loser.png" alt="drawing" />A lattice with a loser, $R$</p>
+
+<p>There’s some scientific basis for calling this lossy lattice site a <strong>loser</strong>, though I didn’t sneak that into the paper.</p>
+
+<h3 id="9-collective-spin-arxiv">9. <a href="https://doi.org/10.1103/PhysRevA.100.013623">Collective spin</a> [<a href="https://arxiv.org/abs/1705.06714">arXiv</a>]</h3>
+
+<p>Don’t ask me about this paper.</p>
+
+</article>
+
+
+      <footer>
+        <p>
+          Site theme - <a href="https://github.com/aigarsdz/brume">brume</a>
+        </p>
+      </footer>
+    </main>
+
+    <!-- scripts -->
+    <script src="/assets/js/fluidvids.min.js"></script>
+    <script>
+      fluidvids.init({
+        selector: ['iframe', 'object'],
+        players: ['www.youtube.com', 'player.vimeo.com']
+      });
+    </script>
+  </body>
+</html>
