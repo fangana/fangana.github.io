@@ -53,10 +53,32 @@ They use this and single-atom addressing to realize controlled phase, CNOT, CCZ,
 
 ## The CZ gate
 
-The key physics, I think, is contained in Figure 2 of the paper, which talks about how they make the controlled phase (CZ) gate:
+The key physics, I think, is contained in Figure 2 of the paper, which talks about how they make the controlled phase (CZ) gate. The idea is to make a 2-qubit gate that achieves a phase flip only if both qubits are $\|1\rangle$, a matrix which looks like:
 
-![captioned](/assets/images/czgate.png)
-A graphic from my presentation, feat. Fig. 2(b)
+![captioned](/assets/images/czgateMat.png)
+A graphic from my presentation
 {: style="font-size: 80%; text-align: center;"}
 
-The idea is to make the operations in the figure above: 
+where $\phi$ can be rotated out with single-qubit phase gates.
+
+To get to this matrix, we want to apply phases to the qubits by applying pulses that address the Rydberg transition ($\|1\rangle \rightarrow \|r\rangle$), which can also be seen as a rotation on the Bloch sphere. As an atom undergoes this rotation, it picks up a phase depending on the path it travels (the enclosed area of the path). The plan, then, is to pick up some phase $\phi$ if one of the two atoms/qubits is in $\|1\rangle$, and a different phase if both qubits are in $\|1\rangle$.
+
+The way they do this is by applying *two* pulses with a phase shift in between, or applying two rotations and shifting the rotation axis in between...
+
+![captioned](/assets/images/czgateExp.png)
+Another graphic from my presentation, feat. Fig. 2
+{: style="font-size: 80%; text-align: center;"}
+
+* The pulses address only qubits in $\|1\rangle$, so if both qubits are in $\|0\rangle$, nothing happens.
+* If one qubit is in $\|1\rangle$, then it gets addressed by the pulses and oscillates between $\|1\rangle$ and the Rydberg state $\|r\rangle$ at some [Rabi] frequency.
+* If both qubits are in $\|1\rangle$, then the Rydberg blockade happens: only one can be in the Rydberg state at any time. This ends up as a superposition of the two possibilities $\|1r\rangle$ and $\|r1\rangle$, with some increased [Rabi] frequency.
+
+The key here is the difference in Rabi frequencies/rotation rates for $\|11\rangle$ vs. $\|01\rangle$ and $\|10\rangle$:
+
+![captioned](/assets/images/czgateSphere.png)
+Fig. 2(c); I don't know why this is so blurry...
+{: style="font-size: 80%; text-align: center;"}
+
+One well-timed pulse of the Rydberg laser causes $\|11\rangle$ to rotate fully about the Bloch sphere, but $\|01\rangle$ only rotates partway. So, by changing the rotation axis, we can do another full rotation for $\|11\rangle$ and a different partway rotation for $\|01\rangle$ which brings it back down. So by traveling different paths, the states $\|01\rangle$ and $\|11\rangle$ acquire different phases. By tuning the rotation axes precisely, this can be used to match the matrix up top.
+
+The authors went on to use this to make a 2-qubit entangled Bell state with some pretty high fidelity, and tacked on some more gates to make a CNOT. They also went ahead and made a 3-qubit version of this trick, also with global fields (!!!), and a Toffoli off of that.
