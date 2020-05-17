@@ -16,7 +16,7 @@ title: About
   * Quantum optics expt, biophysics sim, spintronics (UMich REU)
   * ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
 
-[Curriculum Vitamin (updated August 2019)](/assets/docs/alexcv.pdf)
+[Curriculum Vitamin (updated May 2020)](/assets/docs/AlexAnResume.pdf)
 
 # About this site
 My main goal here is to write about recent developments/papers in my field (cold atoms), in order to...
