@@ -48,15 +48,9 @@ Anime blogging had (still has??) two main types of blog posts: "Episodics" and "
 
 I tackled both sides with equal vigor, but I was absolutely horrible with episodic posts. I tried for many years, but I just couldn't bring myself to write about every single episode of a show. It seemed less like a fun hobby and more like a job with constant deadlines. Even worse was the standard "format" of these episodics, pioneered by the popular episodic blogs: a few screenshots of the show, a summary of the plot, and a bit of commentary and opinion. I just couldn't conform to such a rigid and boring framework, and always wanted to go in-depth about some stupid little aspect, or just give up entirely.
 
-<<<<<<< HEAD
 I described my style as "stream-of-consciousness", as I would write whatever would come to mind and rarely went back to edit what I wrote. In rebellion against the usual approach of consistency (episodics and/or editorials), I experimented with different styles of posts, sometimes writing thousands of words in a standard "editorial" about some trope, and other times posting just a few pictures or words. Sometimes I would write standard analysis and commentary, and other times I would write satire. I would write about anime series, but I would often also write "meta" posts about blogging itself, often satirical. I vividly remember when the community decided to hold a popularity contest to determine the most popular anime blog, and I was pitted against one of the top seeded blogs (who eventually got runner-up in the 96-blog tournament). While most of the blogs put out a relatively low-effort post saying "here's the voting link - please vote for me!", I went all out to put on a show. I put out the obligatory low-effort post, and then played off of it by putting out a satirical piece on how to lose the tournament. Then on voting day, I threw the competition by changing the name and style of my blog to match my opponent's blog, and subsequently lost by a landslide (88 votes to 290).
 
 Through all of this sense and nonsense, I explored a vast variety of writing topics, developing my writing chops and learning how to express myself through words. In total, over around ten years of on/off anime blogging, I wrote almost 200,000 words over nearly 400 posts ranging from 1 word to 4000 words each.
-=======
-I described my style as "stream-of-consciousness", as I would write whatever would come to mind and rarely went back to edit what I wrote. In rebellion against the usual approach of consistency (episodics and/or editorials), I experimented with different styles of posts, sometimes writing thousands of words in a classic "editorial" about some trope, and other times posting just a few pictures or words. Sometimes I would write standard analysis and commentary, and other times I would write satire. I would write about anime series, but I would often also write "meta" posts about blogging itself, often satirical. I vividly remember when the community decided to hold a popularity contest to determine the most popular anime blog, and I was pitted against one of the top seeded blogs (who eventually got runner-up in the 96-blog tournament). While most of the blogs put out a relatively low-effort post saying "here's the voting link - please vote for me!", I went all out to put on a show. I put out the obligatory low-effort post, and then played off of it by putting out a satirical piece on how to lose the tournament. Then on voting day, I threw the competition by changing the name and style of my blog to match my opponent's blog, and subsequently lost by a landslide (88 votes to 290).
-
-Through all of this sense and nonsense, I explored a vast variety of writing topics, developing my writing chops and learning how to express myself through words. In total, over around ten years of on/off blogging, I wrote almost 200,000 words over nearly 400 posts ranging from 1 word to 4000 words each.
->>>>>>> 4b582e54f0c2af84c7c698476c7e047eef320358
 
 ### Writing Term Papers
 
@@ -65,11 +59,7 @@ In 2012, I received the Rojansky Writing Award for writing the best final paper 
 
 ### Writing Scientific Papers
 
-<<<<<<< HEAD
 Writing papers for journals isn't the same as writing term papers. It's so much more structured, and stuffed with jargon and references.
-=======
-
->>>>>>> 4b582e54f0c2af84c7c698476c7e047eef320358
 
 ### Writing the Thesis
 
