@@ -7,13 +7,13 @@ title: About
 ![alex an](/assets/images/itsme.jpg)
 
 ## Fangzhao Alex An
-Physics Graduate Student @ UIUC
-  * faan2 at illinois dot edu
+**UIUC** Ph.D. 2020
   * Experimental cold atom physics
   * Mathematica
   * Boba
 
-Harvey Mudd College '14
+**Harvey Mudd College** B.S. 2014
+  * Quantum optics expt, biophysics sim, spintronics (UMich REU)
   * ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
 
 [Curriculum Vitamin (updated August 2019)](/assets/docs/alexcv.pdf)
