@@ -60,14 +60,12 @@ In 2012, I wrote this paper on superfluidity (mostly on helium) as a final paper
 
 In a total shock to me, my peers and my professor selected this as the best paper in the class, giving me the Rojansky Writing Award which included a full set of the Feynman Lectures. While I had been writing about my hobbies for years at that point, I always considered my writing to be poor from years of horrible experiences in English classes. I had always struggled to write the "perfect" words in each sentence, then the "perfect" sentences in each paragraph, and so on... as that's how I was taught as early as middle school (topic sentence, then 2-3 sentences of whatever, etc.). In writing this paper, I researched all of the content and then used my "stream-of-consciousness" approach that I had developed from blogging to spew the content onto the page: writing down the words in the order that felt and sounded correct to me. This let me avoid the robotic, unnatural tone of the perfectly constructed sentences in favor of a more colloquial, natural voice.
 
-Of course, this is all said in retrospect. Getting this award gave me the confidence to pursue this colloquial approach
-
-Getting this award gave me confidence in this approach, and has allowed me say "this is correct" or "this is good enough" when I write a sentence, worrying less about all of those admittedly unimportant details.
-
-
+Of course, this is all said in retrospect. After getting this award, I did a lot of introspection and gained confidence in my colloquial approach. It has allowed me to say "this is correct" or "this is good enough" when I write a sentence, worrying less the perfect words to use and focusing more about how each sentence sounds.
 
 
 ### Writing Scientific Papers
+
+Scientific journal papers stand in stark contrast to everything I've written above. They are highly structured, and stuffed with necessary jargon and references.
 
 Writing papers for journals isn't the same as writing term papers. It's so much more structured, and stuffed with jargon and references.
 
