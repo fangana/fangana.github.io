@@ -7,6 +7,11 @@ title: About
 ![alex an](/assets/images/itsme.jpg)
 
 ## Fangzhao Alex An
+**Honeywell**
+  * Trapped ion quantum computing
+  * Mathematica
+  * Boba
+
 **UIUC** Ph.D. 2020
   * Experimental cold atom physics
   * Mathematica
@@ -15,6 +20,8 @@ title: About
 **Harvey Mudd College** B.S. 2014
   * Quantum optics expt, biophysics sim, spintronics (UMich REU)
   * ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
+  * Mathematica
+  * Boba
 
 [Curriculum Vitamin (updated May 2020)](/assets/docs/AlexAnResume.pdf)
 
