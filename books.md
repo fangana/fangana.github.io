@@ -9,9 +9,13 @@ Here I list fantasy and science fiction book series that I've read, as well as s
 
 1. *The Stormlight Archive* by Brandon Sanderson -- reading 2015- -- **4/5**
 
+Currently reading book 4 (Rhythm of War)
+
 Long and slow without seeming so. The characters are cool and the plot is interesting, but the villains are absolutely terrible. It's such a strange problem to have... the enemies feel epic and terrifying up until they're revealed in book 3, and from then on the oppressive feeling of impending doom is suddenly gone. What a waste.
 
 2. *Farseer Trilogy* by Robin Hobb, reading 2020- -- **4/5**
+
+Currently on book 2 (Royal Assassin). Book One was a great departure from the usual grand tales of
 
 ## finished
 
