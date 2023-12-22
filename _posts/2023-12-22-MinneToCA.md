@@ -11,7 +11,7 @@ I meant to write this post in June or so, right after starting my new job at AOS
 * 4/2022--6/2022: Did [a data science bootcamp](https://www.thedataincubator.com/)
 * 8/2022--11/2022: Started and ended a job search
 * 3/2023: Moved from Minneapolis to San Jose
-* 4/2023: Korea vacay (below)
+* 4/2023: Korea vacay (above)
 * 5/2023: Started working at AOSense
 
 I also started writing some more technical notes-style stuff at work, similar to my 2019 paper posts. I'm satisfying the writing itch that way, I guess.
