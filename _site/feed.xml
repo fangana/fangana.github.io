@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-22T01:56:34-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alex an blog</title><subtitle>alex an</subtitle><author><name>alex an</name></author><entry><title type="html">MinneToCA</title><link href="http://localhost:4000/2023/12/22/MinneToCA.html" rel="alternate" type="text/html" title="MinneToCA" /><published>2023-12-22T00:00:00-08:00</published><updated>2023-12-22T00:00:00-08:00</updated><id>http://localhost:4000/2023/12/22/MinneToCA</id><content type="html" xml:base="http://localhost:4000/2023/12/22/MinneToCA.html">&lt;p&gt;&lt;img src=&quot;/assets/images/korea.jpg&quot; alt=&quot;koreaa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I meant to write this post in June or so, right after starting my new job at AOSense. 2022 was a busy year for my career and my life, and I wanted to write it down in a post here. Here’s some stuff that happened:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;3/2022: Wrote &lt;a href=&quot;https://arxiv.org/abs/2203.01920&quot;&gt;a paper about SPAM&lt;/a&gt; at Quantinuum&lt;/li&gt;
+  &lt;li&gt;4/2022–6/2022: Did &lt;a href=&quot;https://www.thedataincubator.com/&quot;&gt;a data science bootcamp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;8/2022–11/2022: Started and ended a job search&lt;/li&gt;
+  &lt;li&gt;3/2023: Moved from Minneapolis to San Jose&lt;/li&gt;
+  &lt;li&gt;4/2023: Korea vacay (below)&lt;/li&gt;
+  &lt;li&gt;5/2023: Started working at AOSense&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also started writing some more technical notes-style stuff at work, similar to my 2019 paper posts. I’m satisfying the writing itch that way, I guess.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;why-are-you-leaving&quot;&gt;Why are you leaving?&lt;/h1&gt;
+
+&lt;p&gt;By the time of my last post (early 2022), I was already set on leaving Quantinuum and Minnesota. I started slowly leaking my plans to various people, and I got the same response from my friends on the West Coast: “about time!” My Midwestern friends (and coworkers, once I told them) asked me a different question: “why are you leaving?”&lt;/p&gt;
+
+&lt;p&gt;At zeroth order, the answer is obvious: because it’s California. The West Coasters “get it.” But that’s not really something I can say without projecting stereotypical Californian snobbery and elitism (despite having lived 12 years in CA and 12 years in the midwest…), plus it sort of misses the point. Why was I so eager and even desperate to go back to California?&lt;/p&gt;
+
+&lt;p&gt;I ended up responding in a lot of different ways, mostly trying to give the most relatable answer each time. I didn’t like the weather. I wanted to be closer to family. I wanted to be closer to friends. I wanted to eat some good Asian food. I wanted to see mountains. I missed “home,” whatever that means. I never really collected my thoughts until my last week in Minnesota, when I accidentally said what I wanted to say: “I’m tired of being a minority here.”&lt;/p&gt;
+
+&lt;h1 id=&quot;alienation&quot;&gt;Alienation&lt;/h1&gt;
+
+&lt;p&gt;I moved to Minnesota two days after George Floyd died.&lt;/p&gt;
+
+&lt;p&gt;I saw the news in the hotel the night before I made the drive up from Champaign, and prepared for racial tension, protests, and curfews in a big city that was still under lockdown. With this on my mind, I felt uneasy as I started living in my new apartment and exploring my new city. I thought this feeling was caused by a mix of COVID, protests, and my anxiety over starting my first big boy job, and expected it to blow over. After all, the Twin Cities were so much bigger and more interesting than the cornfields of Champaign-Urbana, and I had loved it there.&lt;/p&gt;
+
+&lt;p&gt;But the more I stayed, the more uneasy I felt. Whether it was talking with people or just walking around in public, something just felt &lt;em&gt;off&lt;/em&gt;. I would feel stares, looks, and glances at the geocerey, and a conversation would be always just beyond my grasp.&lt;/p&gt;
+
+&lt;p&gt;I wouldn’t call it racism, discrimination, or even microaggression. It’s unlike Ohio neighbors slinging “Chinaman” at my family, Illinois barhoppers praising me as a shining example of American greatness, or rural Minnesotans yelling “go back to your country!” Past the intentional and below the conscious was a constant, oppressive feeling of alienation, of not fitting the “norm” of a God-fearing American. Maybe those gazes have been stinging my face all these years, and I only started feeling it once I acknowledged the growing anti-Asian sentiment.&lt;/p&gt;
+
+&lt;h1 id=&quot;an-american-dream&quot;&gt;An American dream&lt;/h1&gt;
+
+&lt;p&gt;It felt stupid to kowtow to and retreat from something that was so insignificant compared to &lt;a href=&quot;https://en.wikipedia.org/wiki/Murder_of_George_Floyd&quot;&gt;dying (black)&lt;/a&gt; or &lt;a href=&quot;https://en.wikipedia.org/wiki/Killing_of_Vicha_Ratanapakdee&quot;&gt;dying (asian)&lt;/a&gt;. But I was out of grad school, where everything was temporary. I saw people around me getting married, buying houses, and settling down. I envisioned myself five, ten years down the line, and I was scared. I would still be driving the 100 back home in pitch black darkness, trying to find basic Asian groceries in far off places, and flying back “home” to LA only once or twice a year. Would I have built up or found my own community? Would I only be able to feel a sense of belonging in a limited space? Worst of all, would I &lt;a href=&quot;https://www.tiktok.com/@laurajpeg/video/6957382882696367366&quot;&gt;lose a part of myself&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;In the mirror, I saw ripples and reflections of my parents’ much harder journey, coming from China to a daunting foreign land. I spent my childhood following my parents in their decades-long chase for the American dream, moving around the country as they searched for stability and a place to belong. They gained so much, but along the way, lost parts of their family, their culture and even their language. Somehow it felt like I, the product of their dream, started wandering down that same road, and to what end? I already knew where it led.&lt;/p&gt;
+
+&lt;p&gt;So, California.&lt;/p&gt;
+
+&lt;h1 id=&quot;california&quot;&gt;California&lt;/h1&gt;
+
+&lt;p&gt;It didn’t &lt;em&gt;need&lt;/em&gt; to be California. I knew and considered many other places that could’ve made me happy wrt alienation, but each of those still would’ve come with risk, and I was done compromising. My parents suggested I take small steps to eventually end up in California, but I just took one big one.&lt;/p&gt;
+
+&lt;p&gt;Outside of California, it’s in fashion to dunk on California. Apparently it’s a crime-ridden gridlocked concrete jungle where the rich rent out closets, and the poor sleep on the streets. Conservative media watchers see it as a hellish shithole, but even some of my most liberal friends didn’t see the point of trading low cost of living and minimal traffic for a little more sun. And isn’t it scary to have so many earthquakes and fires?&lt;/p&gt;
+
+&lt;p&gt;Now I’ve finally sorted and written out my feelings about the converse (i.e., why not the Midwest?), but to actually say it succinctly the next time I hear that CA slander… maybe instead it’s worth just saying what I told my parents. Now when I’m driving home on the freeway and I see the light of the sunset hit the mountains, I feel so happy.&lt;/p&gt;</content><author><name>alex an</name></author><category term="life" /><summary type="html">another life update</summary></entry><entry><title type="html">The Theory of Everything</title><link href="http://localhost:4000/2022/01/03/The-3AM-Theory.html" rel="alternate" type="text/html" title="The Theory of Everything" /><published>2022-01-03T00:00:00-08:00</published><updated>2022-01-03T00:00:00-08:00</updated><id>http://localhost:4000/2022/01/03/The-3AM-Theory</id><content type="html" xml:base="http://localhost:4000/2022/01/03/The-3AM-Theory.html">&lt;p&gt;It’s been over a year since &lt;a href=&quot;/2020/10/11/Thesis.html&quot;&gt;last post here&lt;/a&gt;, and I’ve been doing ion-trapping work at &lt;strong&gt;Quantinuum&lt;/strong&gt; (previously Honeywell Quantum Solutions) which I can’t write about here.&lt;/p&gt;
+
+&lt;p&gt;I also turned 30.&lt;/p&gt;
+
+&lt;p&gt;Hitting the big three-zero, among other concurrent things, made me re-evaluate a lot of what I’m doing in life. In particular, I started more consciously and purposely thinking about three big things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;The 3 AM Theory&lt;/em&gt;: The most open and honest conversations happen at 3 AM: around a campfire, lying awake together, in late-night discord calls…&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The 1-on-1 Friend Theory&lt;/em&gt;: To consider someone a &lt;em&gt;close&lt;/em&gt; friend, they necessarily need to be a 1-on-1 friend, &lt;em&gt;i.e.&lt;/em&gt; someone who you can hang out with outside of a group setting. Note that this doesn’t work in reverse: not all 1-on-1 people are close friends, but all close friends must be 1-on-1-able.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Meaning of Life&lt;/em&gt;: not much to conclude here, still open-ended&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What really tied everything together for me was &lt;a href=&quot;https://crooked.com/podcast/dr-vivek-murthy-on-defeating-doomscrolling-with-human-connection/&quot;&gt;a recent &lt;em&gt;Offline&lt;/em&gt; podcast&lt;/a&gt; (by the Pod Save America guy) where in the last 10-15 minutes, the Surgeon General delivers a powerful and succinct message about the meaning of a life well lived. In particular, the last 10-15 minutes encapsulate a lot of what I’ve been thinking about.&lt;/p&gt;
+
+&lt;p&gt;In short, Dr. Murphy says that an “intimate moment” (or 3 AM convo in my book) is a conversation in which both sides are open, honest, vulnerable, and capable of expressing and receiving love. Being capable of having these intimate moments defines a close friendship or relationship, and it is the pursuit of these moments that define a meaningful life.&lt;/p&gt;
+
+&lt;p&gt;I agree, and after thinking about it some more, I’ve taken it a bit further and developed a full-blown theory of everything [that matters]. I’ve separated out moments and activities into two categories: interpersonal and personal matters. For both categories, activities can either help you grow your life to be rich and fulfilling or calm you down from the inevitable stress that comes with constantly seeking growth. So, there are four categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Interpersonal growth&lt;/strong&gt;: Having meaningful “intimate moments” with other people, whether they are friends, relatives, partners, or even strangers. It’s easier to grow more with someone closer to you, so seeking out growth via strangers might not be as efficient as growth via a partner.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interpersonal relax&lt;/strong&gt;: Shooting the shit with other people. Doing activities that are not “intimate moments” in and of themselves, but can deepen relationships nonetheless.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Personal growth&lt;/strong&gt;: Engaging in some activity that gives some sense of accomplishment and &lt;em&gt;progression&lt;/em&gt;. May be through a job, a hobby, or even writing blog posts about personal growth.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Personal relax&lt;/strong&gt;: Doing some activity that calms you down. Often a “consumption” hobby rather than a “production” hobby.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some personal examples for me are: interpersonal growth by flying out to see friends in a 1-on-1 setting, interpersonal relaxing by gaming with a group of friends, personal growth by picking up some sports and thinking about this stuff, and personal relaxing by watching chill shows on Netflix. A very obvious pattern in my life has been ~1 year of full growth-mode (intense desire to socialize with new people, pick up new interests) followed by ~4 years of full relax-mode (getting into a routine with hobbies and friends). Now I realize it’s important to have both…&lt;/p&gt;
+
+&lt;p&gt;Not much else to say but that this is at least better than personality tests (Myers-Briggs) and Eastern mysticism (ikigai).&lt;/p&gt;</content><author><name>alex an</name></author><category term="life" /><summary type="html">Some stuff I&apos;ve been thinking about</summary></entry><entry><title type="html">Thesis retrospective and MapleStory</title><link href="http://localhost:4000/2020/10/11/Thesis.html" rel="alternate" type="text/html" title="Thesis retrospective and MapleStory" /><published>2020-10-11T00:00:00-07:00</published><updated>2020-10-11T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/11/Thesis</id><content type="html" xml:base="http://localhost:4000/2020/10/11/Thesis.html">&lt;h3 id=&quot;status-of-the-fangzhao&quot;&gt;Status of the Fangzhao&lt;/h3&gt;
+
+&lt;p&gt;I successfully defended my Ph.D. thesis in late May, and I started a job at Honeywell Quantum Solutions not long after. Here I’ll provide links to a video of my thesis defense and to my thesis paper, and then present a nano-memoir on maplestory. I first started writing this post on a sleepless night following my defense, but never quite finished it until now.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-thesis-defense&quot;&gt;The Thesis Defense&lt;/h3&gt;
+
+&lt;p&gt;I gave my defense over Zoom, and even though I sent out invitations really last-minute, it ended up attracting a few dozen of my colleagues, friends, and family members. Unfortunately, the timing was such that not everybody was able to see it, so I recorded the entire thing and put it on YouTube here:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8sBW7nDgJsc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;For my defense, I had to give a roughly 30-minute talk (longer with questions) about some aspect of my graduate school research. Because Eric, Bryce, and I have conducted &lt;a href=&quot;/2019/08/19/MyWorkX.html&quot;&gt;so many studies over the last 6 years&lt;/a&gt;, I decided to only talk about my most “recent” first-author work on interacting physics within momentum-space lattices (this is still unpublished/in prep). I have “recent” in quotes because this data was taken almost two years ago, back when our apparatus was still up and running. Luckily, I already did all of the hard work in making the talk during my job search earlier in the year, and only had to slightly modify the presentation to give the more general audience something to latch onto.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-thesis-paper&quot;&gt;The Thesis Paper&lt;/h3&gt;
+
+&lt;p&gt;I once dreamed of writing the perfect dissertation, with clearly laid-out math behind all the different laser cooling and trapping techniques, and concise, understandable language that would dodge the excessive jargon of my published papers. Unfortunately, the reality was that I had limited time and motivation to write this thing, and ended up producing a mishmash of old papers, new unpublished work, and basic AMO physics all stitched together as some sort of Frankenstein’s monster:&lt;/p&gt;
+
+&lt;h1 id=&quot;the-cold-atom-toolbox-in-momentum-space&quot;&gt;&lt;a href=&quot;http://hdl.handle.net/2142/108417&quot;&gt;&lt;strong&gt;&lt;center&gt;The cold atom toolbox in momentum space&lt;/center&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;It’s over 240 pages long with all the front and back matter included (which notably beats Eric’s 216 pages!!), yet only around half of it is “new” content that I wrote this year, with the rest being text modified from my papers. Ideally I would’ve spent a lot more time adapting these older sections to make them at least slightly understandable, but my mistake was adopting the same (lack of) work schedule that I employed for my undergraduate thesis: procrastinating until right before the deadline and then pounding it out with many days of poor sleep.&lt;/p&gt;
+
+&lt;p&gt;But whereas I suffered only one intense week for my undergrad thesis, my graduate thesis took about a month and a half of constant work, usually done between midnight and 8 AM and powered by &lt;a href=&quot;https://www.youtube.com/watch?v=jjgZhoy7BIo&quot;&gt;the MapleStory soundtrack&lt;/a&gt;. My nostalgic feelings about that stupidly grindy game was the perfect fuel for my stupidly grindy work, almost like some Pavlovian response. Naturally, I ended up thinking about MapleStory a lot, despite being 13 years removed from the game…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;maplestory&quot;&gt;MapleStory&lt;/h3&gt;
+
+&lt;p&gt;In one of my many bouts of thesis procrastination, I went back 13 years to my first year of high school. After some self-reflection, I realized that my years of playing MapleStory helped spark my scientific career. Here’s how…&lt;/p&gt;
+
+&lt;p&gt;The year was 2007, and I’d been heavily invested for a year in the wonderful MMORPG MapleStory, and in its vibrant and active community. MapleStory was a total grindfest of a game where to gain just a single level, I had to kill the same enemies for hours on end, and there were barely any guides or advice to help make it faster or easier. But that was a lot of the appeal: everybody playing the game was a clueless teenager exploring this huge world, and anybody could figure out a new strategy and contribute to the community. So there was a small niche to fill: well-written, factually-accurate guides on MapleStory.&lt;/p&gt;
+
+&lt;p&gt;In late 2007, I made an account on a fansite forum and pumped out three popular guides on the forum, each longer than the last. I recently went back to look at these guides (which will hopefully never see the light of day due to excessive 2000s internet humor and 1337speak), and found that they were 5000, 11000, and 20000 words long (overestimated numbers). These guides were so long that I had to post them in multiple chunks to get past the character limit per forum post, which meant that I needed to write these beforehand and then spam posts so that nobody could sneak a post in the middle of my guide. These word counts don’t even factor in the time I spent formatting the text, editing and embedding pictures and videos, and referencing many other guides and pieces of content.&lt;/p&gt;
+
+&lt;p&gt;The entire process of writing a guide like this is, in retrospect, almost identical to writing a research paper. Instead of referencing arXiv papers, I was referencing older guides. And instead of meticulously editing crisp vector graphics images in Adobe Illustrator, I was editing bitmap images in MS Paint and uploading them to Photobucket. At one point, I even wanted &lt;em&gt;peer review&lt;/em&gt; of guides, and was willing to spend my time as the curator (editor) of a collection (journal) of high quality guides, as there were a lot of low quality guides floating around the internet with a lot of wrong information. Unfortunately, I couldn’t find enough support for such a huge endeavor so I dropped the idea.&lt;/p&gt;
+
+&lt;p&gt;In writing these guides and participating in the community, I had unwittingly entered the world of research. While I wasn’t an expert at the game itself, I found my niche and put in a significant amount of time and effort into preparing my guides, and it showed in the praise and readership that I received. This feedback sparked a lifelong interest in writing, which I later carried over to blogging, paper writing, and now, thesis mangling.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><category term="talks" /><summary type="html">My defense, my thesis, and MapleStory</summary></entry><entry><title type="html">Working with optics in an AMO lab</title><link href="http://localhost:4000/2019/10/30/OpticsTT.html" rel="alternate" type="text/html" title="Working with optics in an AMO lab" /><published>2019-10-30T00:00:00-07:00</published><updated>2019-10-30T00:00:00-07:00</updated><id>http://localhost:4000/2019/10/30/OpticsTT</id><content type="html" xml:base="http://localhost:4000/2019/10/30/OpticsTT.html">&lt;p&gt;As the first step to writing my thesis, I’ve written an appendix documenting the hands-on skill of working with optics in an atomic physics lab.&lt;/p&gt;
+
+&lt;h1 id=&quot;optics-tips-and-tricks&quot;&gt;&lt;a href=&quot;/assets/docs/Optics_Tips_and_Tricks.pdf&quot;&gt;&lt;strong&gt;&lt;center&gt;Optics Tips and Tricks&lt;/center&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Basic laser safety&lt;/li&gt;
+  &lt;li&gt;Aligning a beam to a straight line&lt;/li&gt;
+  &lt;li&gt;Aligning a beam on top of another beam&lt;/li&gt;
+  &lt;li&gt;Fiber coupling&lt;/li&gt;
+  &lt;li&gt;Aligning an acousto-optic modulator&lt;/li&gt;
+  &lt;li&gt;Aligning a double pass AOM&lt;/li&gt;
+  &lt;li&gt;Aligning a tapered amplifier&lt;/li&gt;
+  &lt;li&gt;Cleaning optics&lt;/li&gt;
+  &lt;li&gt;Tightening posts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While some of these topics are quite specific to the Gadway lab (TA, tightening posts), most are pretty general… and repetitive. Turns out that aligning a laser beam is always about “near” and “far” points.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I hope this benefits someone out there. It would have helped me back in 2014 when Bryce wasn’t around to answer my questions.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><summary type="html">Something I plan to put in my thesis</summary></entry><entry><title type="html">Tweezer gates</title><link href="http://localhost:4000/2019/10/03/TweezerGates.html" rel="alternate" type="text/html" title="Tweezer gates" /><published>2019-10-03T00:00:00-07:00</published><updated>2019-10-03T00:00:00-07:00</updated><id>http://localhost:4000/2019/10/03/TweezerGates</id><content type="html" xml:base="http://localhost:4000/2019/10/03/TweezerGates.html">&lt;p&gt;This semester I decided to erect my own pulpit for delivering my high-effort crappy powerpoint presentations, the UIUC &lt;strong&gt;Q&lt;/strong&gt;uantum &lt;strong&gt;I&lt;/strong&gt;nformation / &lt;strong&gt;A&lt;/strong&gt;tomic &lt;strong&gt;M&lt;/strong&gt;olecular and &lt;strong&gt;O&lt;/strong&gt;ptical physics Journal Club (&lt;strong&gt;QIAMO&lt;/strong&gt;). And who better to sing the first round of lullabies than the founder himself, Alex An? So, I dropped everything I was doing in lab and spent a week crafting my magnum opus:&lt;/p&gt;
+
+&lt;h1 id=&quot;this-powerpoint&quot;&gt;&lt;a href=&quot;/assets/other/TweezerGatesJClub.pptx&quot;&gt;&lt;strong&gt;&lt;center&gt;THIS POWERPOINT.&lt;/center&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;While I didn’t spend as much time on this talk as on &lt;a href=&quot;/2019/03/06/QGMs.html&quot;&gt;my previous Quantum Gas Microscope presentation&lt;/a&gt;, I spent proportionally more time thinking about the talk rather than meticulously moving elements around in the Animation Pane.&lt;/p&gt;
+
+&lt;p&gt;Finally, I realized in typing this up that I should include a disclaimer here: Despite the jokes, nothing in this powerpoint is meant to offend (though “Rubidium” really should be mentioned in the text…). I wouldn’t spend all of this effort if the paper itself wasn’t interesting.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-papers&quot;&gt;The paper(s)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;: Parallel implementation of high-fidelity multi-qubit gates with neutral atoms&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Harry Levine, …, Mikhail Lukin&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1908.06101&quot;&gt;arXiv:1908.06101&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the latest work in a long line of success for the tweezer experiment from the Lukin group, a paper-producing machine which I’ve gushed over in my &lt;a href=&quot;/2019/06/06/Damop2019.html&quot;&gt;DAMOP post from earlier this year&lt;/a&gt;. This experiment has gone from “cool” to “astounding”, and now to the edge of viable quantum computing.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1607.03044&quot;&gt;arXiv:1607.03044&lt;/a&gt; (&lt;a href=&quot;https://doi.org/10.1126/science.aah3752&quot;&gt;Science&lt;/a&gt;)&lt;/td&gt;
+      &lt;td&gt;arranging a line of single atoms trapped in tweezers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1707.04344&quot;&gt;arXiv:1707.04344&lt;/a&gt; (&lt;a href=&quot;https://doi.org/10.1038/nature24622&quot;&gt;Nature&lt;/a&gt;)&lt;/td&gt;
+      &lt;td&gt;quantum simulation of many-body physics&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1806.04682&quot;&gt;arXiv:1806.04682&lt;/a&gt; (&lt;a href=&quot;https://doi.org/10.1103/PhysRevLett.121.123603&quot;&gt;PRL&lt;/a&gt;)&lt;/td&gt;
+      &lt;td&gt;much improved Rydberg lifetimes, two-atom entanglement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1809.05540&quot;&gt;arXiv:1809.05540&lt;/a&gt; (&lt;a href=&quot;https://doi.org/10.1038/s41586-019-1070-1&quot;&gt;Nature&lt;/a&gt;)&lt;/td&gt;
+      &lt;td&gt;more quantum sims, kibble-zurek quench stuff (didn’t read)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1905.05721&quot;&gt;arXiv:1905.05721&lt;/a&gt;  (&lt;a href=&quot;https://doi.org/10.1126/science.aax9743&quot;&gt;Science&lt;/a&gt;)&lt;/td&gt;
+      &lt;td&gt;20-qubit entangled states, spatially-separated entanglement&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://arxiv.org/abs/1908.06101&quot;&gt;arXiv:1908.06101&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;quantum gates&lt;/strong&gt; (this paper)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Also in this presentation is a related work by Mark Saffman’s group [&lt;a href=&quot;https://arxiv.org/abs/1908.06103&quot;&gt;arXiv:1908.06103&lt;/a&gt;] which was authored by good ol’ Trent (UIUC ‘16)!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-physics&quot;&gt;The physics&lt;/h2&gt;
+
+&lt;p&gt;Here I’ll give a fast explanation of what’s going on in this paper. The system is an array of single atoms trapped in optical tweezers, and the interactions between the atoms are mediated via Rydberg excitations.&lt;/p&gt;
+
+&lt;p&gt;Breaking that down:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Neutral atoms can be trapped in focused beams of light (optical tweezers) which can hold as little as a single atom each. This is probabilistic, and you can take a picture to see which tweezers have 1 atom vs. no atoms, and rearrange. And the atoms need to be cold enough to get trapped, which usually means cooling to ~microKelvin (?).&lt;/li&gt;
+  &lt;li&gt;A tweezer &lt;em&gt;array&lt;/em&gt; can be made with many laser beams, usually one laser through a diffractive element.&lt;/li&gt;
+  &lt;li&gt;Rydberg atoms are atoms that are almost ionized, with their valence electron out really far from the nucleus. This prevents nearby atoms from also exciting to a Rydberg state (Rydberg “blockade”).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As for the quantum gates part… they choose their qubit to be two internal spin states of the atoms, $|0\rangle$ and $|1\rangle$. There is one laser which addresses transitions between these two, and one laser which adds a phase to $|1\rangle$, realizing single-qubit $X$ and $Z$ rotations, respectively.&lt;/p&gt;
+
+&lt;p&gt;For multi-qubit gates, they use the Rydberg blockade to great effect. They have a laser which addresses transitions between $|1\rangle$ and the Rydberg state $|r\rangle$. This can be done locally to individual atoms/qubits, but they do everything in this paper with a &lt;em&gt;global&lt;/em&gt; Rydberg laser that addresses all qubits simultaneously.&lt;/p&gt;
+
+&lt;p&gt;They use this and single-atom addressing to realize controlled phase, CNOT, CCZ, and Toffoli gates, and build entangled Bell states with high fidelity. It’s interesting to note that by making Toffoli or CNOT and Hadamard, they’ve made universal quantum gates which could be used repeatedly to make any quantum circuit.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-cz-gate&quot;&gt;The CZ gate&lt;/h2&gt;
+
+&lt;p&gt;The key physics, I think, is contained in Figure 2 of the paper, which talks about how they make the controlled phase (CZ) gate. The idea is to make a 2-qubit gate that achieves a phase flip only if both qubits are $|1\rangle$, a matrix which looks like:&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/czgateMat.png&quot; alt=&quot;captioned&quot; /&gt;
+A graphic from my presentation&lt;/p&gt;
+
+&lt;p&gt;where $\phi$ can be rotated out with single-qubit phase gates.&lt;/p&gt;
+
+&lt;p&gt;To get to this matrix, we want to apply phases to the qubits by applying pulses that address the Rydberg transition ($|1\rangle \rightarrow |r\rangle$), which can also be seen as a rotation on the Bloch sphere. As an atom undergoes this rotation, it picks up a phase depending on the path it travels (the enclosed area of the path). The plan, then, is to pick up some phase $\phi$ if one of the two atoms/qubits is in $|1\rangle$, and a different phase if both qubits are in $|1\rangle$.&lt;/p&gt;
+
+&lt;p&gt;The way they do this is by applying &lt;em&gt;two&lt;/em&gt; pulses with a phase shift in between, or applying two rotations and shifting the rotation axis in between…&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/czgateExp.png&quot; alt=&quot;captioned&quot; /&gt;
+Another graphic from my presentation, feat. Fig. 2&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The pulses address only qubits in $|1\rangle$, so if both qubits are in $|0\rangle$, nothing happens.&lt;/li&gt;
+  &lt;li&gt;If one qubit is in $|1\rangle$, then it gets addressed by the pulses and oscillates between $|1\rangle$ and the Rydberg state $|r\rangle$ at some [Rabi] frequency.&lt;/li&gt;
+  &lt;li&gt;If both qubits are in $|1\rangle$, then the Rydberg blockade happens: only one can be in the Rydberg state at any time. This ends up as a superposition of the two possibilities $|1r\rangle$ and $|r1\rangle$, with some increased [Rabi] frequency.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The key here is the difference in Rabi frequencies/rotation rates for $|11\rangle$ vs. $|01\rangle$ and $|10\rangle$:&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/czgateSphere.png&quot; alt=&quot;captioned&quot; /&gt;
+Fig. 2(c); I don’t know why this is so blurry…&lt;/p&gt;
+
+&lt;p&gt;One well-timed pulse of the Rydberg laser causes $|11\rangle$ to rotate fully about the Bloch sphere, but $|01\rangle$ only rotates partway. So, by changing the rotation axis, we can do another full rotation for $|11\rangle$ and a different partway rotation for $|01\rangle$ which brings it back down. So by traveling different paths, the states $|01\rangle$ and $|11\rangle$ acquire different phases. By tuning the rotation axes precisely, this can be used to match the matrix up top.&lt;/p&gt;
+
+&lt;p&gt;The authors went on to use this to make a 2-qubit entangled Bell state with some pretty high fidelity, and tacked on some more gates to make a CNOT. They also went ahead and made a 3-qubit version of this trick, also with global fields (!!!), and a Toffoli off of that.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><summary type="html">Tweezers become a viable quantum computing platform</summary></entry><entry><title type="html">My Work #X: everything else</title><link href="http://localhost:4000/2019/08/19/MyWorkX.html" rel="alternate" type="text/html" title="My Work #X: everything else" /><published>2019-08-19T00:00:00-07:00</published><updated>2019-08-19T00:00:00-07:00</updated><id>http://localhost:4000/2019/08/19/MyWorkX</id><content type="html" xml:base="http://localhost:4000/2019/08/19/MyWorkX.html">&lt;p&gt;Because I wrote a very long explanation about &lt;a href=&quot;/2019/03/15/MyWork1.html&quot;&gt;my first work&lt;/a&gt;, here I’ll overcompensate and write a very condensed review of the rest of the work I’ve done. In some sense, this accurately reflects my talks and presentations of my work: half of the time is necessarily devoted to explaining the momentum-space lattice (&lt;strong&gt;MSL&lt;/strong&gt;) platform, and the actual experiments get squished into the second half. Of course, this never fails to glaze eyes so I expect this post to do the same.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;quick-momentum-space-lattice-overview&quot;&gt;Quick momentum-space lattice overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-point&quot;&gt;The point&lt;/h3&gt;
+&lt;p&gt;We want to study quantum systems, which are hard to simulate with the limited computing power of classical computers. So what better way to study quantum, but with quantum? The buzzword here is &lt;strong&gt;quantum simulation&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;So, we take atoms and put them in a (optical) lattice, so that it’s a quantum particle seeing a periodic potential. This mimics any lattice system, like electrons in a solid, where the periodic potential comes from the regularly spaced atoms (nuclei) of the solid. And because this atom+lattice system is really tunable, it can also be used to study lattice systems that you can’t really create in a real material.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-setup&quot;&gt;The setup&lt;/h3&gt;
+&lt;p&gt;The usual way to make an optical lattice for atoms is to shine a laser beam at the atoms, and put a mirror on the other side. This makes a standing wave, and if the laser frequency is just below some internal transition of the atom, the atoms see a periodic potential.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, and more arduously, you can shine individual (optical trapping/tweezer) laser beams for individual lattice sites. So for example, you can trap one atom with one beam, and another atom in a second beam. If these beams are close enough, the atoms can tunnel between these “lattice sites”, and by adding more beams, you add more lattice sites to make a full lattice.&lt;/p&gt;
+
+&lt;p&gt;What we do is similar, but instead of connecting atoms in different spatial positions, we connect atoms with different momenta. These momentum states of the atoms have different energies, so we can connect them by tuning our laser fields to the appropriate energy/frequency differences between the states. This momentum-space lattice technique allows for even finer control over the lattice parameters as compared to real-space lattices, letting us perform studies that other groups would find hard or impossible to do.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;the-works&quot;&gt;The works&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-quantum-walks-arxiv&quot;&gt;1. &lt;a href=&quot;https://doi.org/10.1103/PhysRevA.93.051602&quot;&gt;Quantum walks&lt;/a&gt; [&lt;a href=&quot;https://arxiv.org/abs/1601.05785&quot;&gt;arXiv&lt;/a&gt;]&lt;/h3&gt;
+&lt;p&gt;I already &lt;a href=&quot;/2019/03/15/MyWork1.html&quot;&gt;wrote about the first paper&lt;/a&gt;, which was on quantum walks and a sort of proof-of-concept paper.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-ssh-model-topology-in-1d&quot;&gt;2. &lt;a href=&quot;https://doi.org/10.1038/ncomms13986&quot;&gt;SSH model: topology in 1D&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mpx_ssh.png&quot; alt=&quot;drawing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We made a lattice with alternating tunneling link strengths (&lt;strong&gt;Su-Schrieffer-Heeger model&lt;/strong&gt;) and showed its topological properties. In general, something is topological if you need to make a measurement of the entire system to figure out what’s going on, rather than a local measurement. This often translates into “stuff on the edge of the system is different from stuff in the bulk.” In 2D this shows up as conducting states on the edge and insulating states in the bulk.&lt;/p&gt;
+
+&lt;p&gt;In 1D, the “edges” are the lattice sites at the end of the lattice, and we showed that these sites support localized states while the bulk shows delocalized, conducting states. This was the first cold atom realization of the SSH model, and was the first big physics goal for the MSL system.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-topology-in-2d&quot;&gt;3. &lt;a href=&quot;https://doi.org/10.1126/sciadv.1602685&quot;&gt;Topology in 2D&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Here, we made a “2D” system with topology, mimicking the behavior of an electron on a lattice under a magnetic field. This is the &lt;strong&gt;(integer) quantum Hall system&lt;/strong&gt;, where electrons in the bulk undergo localized orbits while electrons on the edge flow around the edge in “chiral currents.”&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/mpx_2leg.png&quot; alt=&quot;drawing&quot; /&gt;
+A “2D” system, with data!&lt;/p&gt;
+
+&lt;p&gt;Experimentally, this was a lot tougher than the 1D studies we had done previously, and we had to introduce a second laser for the lattice in the second dimension. The experimental challenges (lack of laser phase stabilization…) also meant that I had to limit my system to a tiny, tiny 2x5 geometry, meaning that the system was all edge and no bulk. Still, we showed that we could vary the effective magnetic field strength and control which way the edge currents ran (clockwise or counterclockwise).&lt;/p&gt;
+
+&lt;p&gt;Another cool thing we did was combine a topological region with a non-topological region, and we showed that atoms would “bounce” off the barrier between the two, despite having no sort of wall or potential difference between the two.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-different-forms-of-disorder&quot;&gt;4. &lt;a href=&quot;https://doi.org/10.1038/s41467-017-00387-w&quot;&gt;Different forms of disorder&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;In addition to studying topology, we also wanted to look at disordered systems. Here, we implemented two different forms of disorder: quasiperiodic site-energy disorder (&lt;strong&gt;Aubry-Andre model&lt;/strong&gt;) and tunneling phase disorder that varies in time (mimicking coupling to a thermal bath). The first showed total localization with increasing disorder, and the second showed diffusive behavior indicative of a classical random walk.&lt;/p&gt;
+
+&lt;p&gt;This was the beginning of my long affair with the Aubry-Andre model, which exhibits a localization transition at some finite disorder strength.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-interactions-arxiv&quot;&gt;5. &lt;a href=&quot;https://doi.org/10.1103/PhysRevLett.120.040407&quot;&gt;Interactions&lt;/a&gt; [&lt;a href=&quot;https://arxiv.org/abs/1708.01237&quot;&gt;arXiv&lt;/a&gt;]&lt;/h3&gt;
+
+&lt;p&gt;Atomic interactions are what make quantum simulation “interesting” – without interactions between particles, you can exactly solve and describe the system with something like Mathematica, which defeats the purpose of going to a quantum system. However, it wasn’t obvious that interactions would play a nontrivial role in momentum space.&lt;/p&gt;
+
+&lt;p&gt;Turns out, they do. Due to quantum statistics, you get more interaction energy between distinguishable particles than between indistinguishable particles, etc. … so you can say that atoms in the same momentum state feel an attractive interaction. We verified this experimentally!&lt;/p&gt;
+
+&lt;h3 id=&quot;6-zigzag-lattice&quot;&gt;6. &lt;a href=&quot;https://doi.org/10.1103/PhysRevX.8.031045&quot;&gt;Zigzag lattice&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/mpx_zigzag.png&quot; alt=&quot;drawing&quot; /&gt;A zigzaggy lattice&lt;/p&gt;
+
+&lt;p&gt;This was a sort of meandering study that was the second step of my inescapable affair with the Aubry-Andre model. On one hand, we made the first “zigzag” lattice in cold atoms (b) out of a 1D lattice with next-nearest-neighbor links (a). This was similar to paper #3 since it was another ladder with topology.&lt;/p&gt;
+
+&lt;p&gt;To spice it up, we added Aubry-Andre disorder, to look at the combination of disorder AND topology. While a total 1D disordered system showed localization for all energy states, this zigzag system showed localization happening at different points for different states. This behavior of state-dependent localization is called a &lt;strong&gt;mobility edge&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;7-ssh--disorder-arxiv&quot;&gt;7. &lt;a href=&quot;https://doi.org/10.1126/science.aat3406&quot;&gt;SSH + disorder&lt;/a&gt; [&lt;a href=&quot;https://arxiv.org/abs/1802.02109&quot;&gt;arXiv&lt;/a&gt;]&lt;/h3&gt;
+
+&lt;p&gt;Maybe besides paper #2 on the SSH model, this has been the biggest result of our lab, and the coolest. Topology is known to be robust to disorder: if you disturb a topological system a bit, the topological character stays put. Of course, if you add too much disorder the topology dies out.&lt;/p&gt;
+
+&lt;p&gt;But, it turns out that under certain parameter values, the SSH model can go from non-topological to topological by adding (tunneling/off-diagonal) disorder, which is totally unintuitive. We made and measured this “topological Anderson insulator” in experiment!&lt;/p&gt;
+
+&lt;h3 id=&quot;8-losers&quot;&gt;8. &lt;a href=&quot;https://doi.org/10.1088/1367-2630/ab1147&quot;&gt;Losers&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;This was a quick computational + experimental project on implementing particle loss in our system. Basically, we can create a lattice site with “loss” by really strongly coupling that site to a reservoir. This picture will explain it better than I could ever do with words:&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/mpx_loser.png&quot; alt=&quot;drawing&quot; /&gt;A lattice with a loser, $R$&lt;/p&gt;
+
+&lt;p&gt;There’s some scientific basis for calling this lossy lattice site a &lt;strong&gt;loser&lt;/strong&gt;, though I didn’t sneak that into the paper.&lt;/p&gt;
+
+&lt;h3 id=&quot;9-collective-spin-arxiv&quot;&gt;9. &lt;a href=&quot;https://doi.org/10.1103/PhysRevA.100.013623&quot;&gt;Collective spin&lt;/a&gt; [&lt;a href=&quot;https://arxiv.org/abs/1705.06714&quot;&gt;arXiv&lt;/a&gt;]&lt;/h3&gt;
+
+&lt;p&gt;Don’t ask me about this paper.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><category term="my papers" /><summary type="html">All of my research ever</summary></entry><entry><title type="html">Lindau retrospective</title><link href="http://localhost:4000/2019/07/20/Lindau.html" rel="alternate" type="text/html" title="Lindau retrospective" /><published>2019-07-20T00:00:00-07:00</published><updated>2019-07-20T00:00:00-07:00</updated><id>http://localhost:4000/2019/07/20/Lindau</id><content type="html" xml:base="http://localhost:4000/2019/07/20/Lindau.html">&lt;p&gt;Earlier this month, I went to the Lindau Nobel Laureate Meeting on an island in southern Germany, where I got up close and personal with the biggest of big wigs in physics: Nobel laureates. And also 500+ young scientists from all over the world.&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/lindau_me.jpg&quot; alt=&quot;captioned&quot; /&gt;
+My LinkedIn profile picture&lt;/p&gt;
+
+&lt;p&gt;I was really nervous the month, week, and day before the conference, to the point where I couldn’t really respond when people asked me if I was excited to attend. Of course I was excited, but the anxiety and nervousness of just having to meet so many people was overwhelming. I’ve never been one for small talk, breaking the ice, and networking in general, so in the past I’ve avoided talking to people outside my group at conferences… not a good look for an aspiring scientist. I was afraid that I’d get stuck in my comfort zone again at Lindau, hanging out with only the American crowd. So I went in with a very intentional gameplan: minimize contact with the Americans, and talk with many people from other countries.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, the atmosphere at Lindau was very transparent: everyone was there to network, so the usual awkwardness that I’ve associated with networking was absent. Talking about research and life came much more naturally than I expected, helped by the enthusiasm of everyone there. From what I talked about and learned, a few things really stood out:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;There’s a lot of astrophysicists out there.&lt;/li&gt;
+  &lt;li&gt;There’s a lot of post-docs out there.&lt;/li&gt;
+  &lt;li&gt;There aren’t a lot of Asian-Americans out there. (alternatively: There are a lot of Asians out there.)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Maybe it was because astro was part of the “theme” of the meeting, but I felt like every other person I talked with was involved with some huge astro collaboration that I’d never heard of. There was one striking moment when I was listening to two astro folks talking about their different fields, and I realized I had lumped all of astro into one category. I may not know any more about astro experiments compared to before I went to Lindau, but now I can at least appreciate the size and breadth of the field.&lt;/p&gt;
+
+&lt;p&gt;I really liked the distribution of young scientists: people in the last year of their undergrad, masters, PhD, and post-doc. The gaps between these groups are obvious in retrospect, but they didn’t feel significant at all when I was there - we were all talking at the same level. Several times I was surprised to find out the person I was talking to was an undergrad, or an assistant professor. I’ve been shying away from a future in academia (and will probably continue doing so), but this experience made the path seem a lot less thorny.&lt;/p&gt;
+
+&lt;p&gt;One thing that caught me off guard was how different (?) I felt at the conference as a Chinese-American. My nametag had “Fangzhao An” written on it, and I wrote in my middle name “(Alex)” to make it easier on people reading it, which ended up drawing attention in every conversation I had. Even after hearing my thick American (Californian) accent, many people were still surprised that I was born in America. Having grown up around Asian-Americans in all areas of America, this reaction caught me totally off guard and I’d never felt so aware of my identity as Chinese-American. I’ve since been debating if this is a benefit or a drawback: somehow it lets me talk more easily to Asians and Americans, but does it also prevent me from getting close to either? I wonder.&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/lindau_bill.jpg&quot; alt=&quot;captioned&quot; /&gt;
+Me and Bill Phillips&lt;/p&gt;
+
+&lt;p&gt;The main act: Nobel Laureates. I stood in line after every talk with my phone out, ready for the photo finish. It seemed supremely awkward every time, but I’m glad I got photos with so many Nobel laureates. Unfortunately, I missed a photo opportunity with Ted Hansch, and my personal hero Steve Chu was always swarmed by too many people for me to get some N-on-one time (N&amp;lt;10).&lt;/p&gt;
+
+&lt;p&gt;As for “meaningful” exchanges with Nobel laureates, I managed to squeeze out a few: lunch with Bill Phillips (above), talking with Carl Wieman, and hanging out with Dave Wineland. Though the most impressive person I met was Wolfgang Ketterle: his no-nonsense, direct attitude was starkly different from the other laureates, but it grew on me during the career panel and later in his lecture. His understanding of cold atoms penetrates several layers deeper than mine… and add to that his well-trained mastery at public speaking. What a powerful impression.&lt;/p&gt;
+
+&lt;p&gt;I’m really glad I went, though I don’t know if I should have stuck with my gameplan. While I got to meet a lot of people, how many of those connections were actually meaningful? Who knows. At least I got a lot of good material for &lt;a href=&quot;https://www.instagram.com/fangzhaoan/&quot;&gt;my new instagram account&lt;/a&gt;.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><summary type="html">I took selfies with famous people.</summary></entry><entry><title type="html">DAMOP 2019 retrospective: Tweezers are IN</title><link href="http://localhost:4000/2019/06/06/Damop2019.html" rel="alternate" type="text/html" title="DAMOP 2019 retrospective: Tweezers are IN" /><published>2019-06-06T00:00:00-07:00</published><updated>2019-06-06T00:00:00-07:00</updated><id>http://localhost:4000/2019/06/06/Damop2019</id><content type="html" xml:base="http://localhost:4000/2019/06/06/Damop2019.html">&lt;p&gt;Last week we went to Milwaukee for the annual big AMO physics conference: DAMOP 2019. Like every year I go, I’ve come back star-struck at the amazing work other groups are doing. At some times it seems like only Boulder, Munich, and CUA (MIT/Harvard) really matter because the results flying out of the groups there never fail to impress.&lt;/p&gt;
+
+&lt;p&gt;The hot new things this year, at least in my eyes, are definitely quantum gas microscopes (&lt;a href=&quot;/2019/03/06/QGMs.html&quot;&gt;which I gave a journal club on&lt;/a&gt;) and &lt;strong&gt;optical tweezer arrays&lt;/strong&gt;. I knew optical tweezer arrays were cool back from the 2016 paper out of the Lukin group [&lt;a href=&quot;https://arxiv.org/abs/1607.03044&quot;&gt;arXiv:1607.03044&lt;/a&gt; | &lt;a href=&quot;https://doi.org/10.1126/science.aah3752&quot;&gt;Science&lt;/a&gt;] where they arranged single atoms in tweezers into arbitrary 1D patterns. Then came their now infamous (?) “51 atom quantum simulator” paper [&lt;a href=&quot;https://arxiv.org/abs/1707.04344&quot;&gt;arXiv:1707.04344&lt;/a&gt; | &lt;a href=&quot;https://www.nature.com/articles/nature24622&quot;&gt;Nature&lt;/a&gt;] looking at effects from interactions generated using a Rydberg state.&lt;/p&gt;
+
+&lt;p&gt;There were also other groups doing really cool work during this time, including the Browaeys group who produced a lot of cool physics results… and an Eiffel Tower of atoms!!!&lt;/p&gt;
+
+&lt;p style=&quot;font-size: 80%; text-align: center;&quot;&gt;&lt;img src=&quot;/assets/images/eiffelTower.png&quot; alt=&quot;drawing&quot; /&gt;
+source: Barredo … Browaeys, Nature (2018) [&lt;a href=&quot;https://arxiv.org/abs/1712.02727&quot;&gt;arXiv:1712.02727&lt;/a&gt; | &lt;a href=&quot;https://doi.org/10.1038/s41586-018-0450-2&quot;&gt;Nature&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;But we didn’t go to DAMOP last year, and I feel like I didn’t fully understand just how big tweezers were getting. Even though I saw huge results on the arXiv like Browaeys’ work with Rydberg-Rydberg SSH [&lt;a href=&quot;https://arxiv.org/abs/1810.13286&quot;&gt;arXiv:1810.13286&lt;/a&gt;] and Kang-Kuen Ni and John Doyle’s work with molecules in tweezers [&lt;a href=&quot;https://arxiv.org/abs/1902.03935&quot;&gt;arXiv:1902.03935&lt;/a&gt;, &lt;a href=&quot;https://arxiv.org/abs/1902.00497&quot;&gt;arXiv:1902.00497&lt;/a&gt;], seeing all of the tweezer talks in one place got me truly excited. In particular, the highlight of the conference was Ahmed Omran’s talk on Friday morning about the paper he dropped only two weeks before: &lt;strong&gt;[&lt;a href=&quot;https://arxiv.org/abs/1905.05721&quot;&gt;arXiv:1905.05721&lt;/a&gt;]&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I missed the last few tweezers papers out of the Lukin group, in particular their work showing Rydberg-Rydberg entanglement between atoms in tweezers [&lt;a href=&quot;https://arxiv.org/abs/1806.04682&quot;&gt;arXiv:1806.04682&lt;/a&gt;]… so it was a huge shock to me seeing Ahmed up there talking about making entangled states of 20 atoms!!! He also showed de-entangling some of the middle atoms to form two entangled atoms separated by many tweezer sites.&lt;/p&gt;
+
+&lt;p&gt;Also, a fraction of his talk was a straight upgrade to one of the studies we have been performing on counter-diabatic driving. While we calculated and then followed a good trajectory, the madmen over at CUA are doing it on the fly, sending over their real-time data to a server in a different country to get trajectory info in milliseconds (?). It’s so impressive.&lt;/p&gt;
+
+&lt;p&gt;Tweezers are moving so fast and the results flying out are so impressive that it’s hard just to keep track of what’s going on. It feels like after a couple more years, we’re going to be in quantum computing territory. Or we already are, and I need DAMOP 2020 to shock me into realizing it.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><category term="talks" /><summary type="html">Cool stuff from DAMOP 2019 Milwaukee edition</summary></entry><entry><title type="html">My Work #1: Momentum-space lattices</title><link href="http://localhost:4000/2019/03/15/MyWork1.html" rel="alternate" type="text/html" title="My Work #1: Momentum-space lattices" /><published>2019-03-15T00:00:00-07:00</published><updated>2019-03-15T00:00:00-07:00</updated><id>http://localhost:4000/2019/03/15/MyWork1</id><content type="html" xml:base="http://localhost:4000/2019/03/15/MyWork1.html">&lt;ul&gt;
+  &lt;li&gt;Atom-optics simulator of lattice transport phenomena&lt;/li&gt;
+  &lt;li&gt;Eric Meier, &lt;strong&gt;ME&lt;/strong&gt;, and Bryce Gadway&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Phys. Rev. A&lt;/em&gt; &lt;strong&gt;93&lt;/strong&gt; (2016)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1601.05785&quot;&gt;arXiv:1601.05785&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the spirit of trying to explain complicated physics nonsense (the point of this site), I’ll start with my own work in the Gadway lab. In this series of posts, I will explain each of my studies at a more easily digestible level, giving a short 1-2 paragraph summary and filling in the minimum background necessary. However, this first post might need a bit more background…&lt;/p&gt;
+
+&lt;p&gt;I’ve tried to write this at the level of a physics undergraduate. Jargon is &lt;em&gt;italicized&lt;/em&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Eminent scholars Alex, Eric, and Bryce make &lt;strong&gt;lattices in momentum space&lt;/strong&gt; for cold atoms, instead of the usual real-space optical lattice setup. This technique gives individual control over each tunneling amplitude, tunneling phase, and site energy of the lattice. They create a few simple lattice systems to demonstrate their control over their lattice: a 1D lattice, a 1D lattice with a tilt, and a 1D lattice with a tunneling “echo”: suddenly switching all the tunnelings to be negative halfway through.&lt;/p&gt;
+
+&lt;p&gt;To be honest, momentum-space lattices fill a small niche in the field of cold atoms in optical lattices. While we do have very precise control over our lattice parameters compared to real-space lattices, we are usually forced to start our experiments with all of the atoms in just one lattice site: atoms are initially at rest, so they are all in the zero momentum “lattice site.” This is normally not close to the ground state (or any eigenstate) of the lattice system, so our experiments could be considered really out-of-equilibrium. This sort of measurement has limited utility: for example, probing eigenstates is… hard.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;detail-on-momentum-space-lattices&quot;&gt;Detail on momentum-space lattices&lt;/h2&gt;
+
+&lt;p&gt;At its core, my work so far has been exploring what we could do with atoms in a momentum-space lattice setup (Bryce’s brainchild, proposed in a previous work, &lt;a href=&quot;https://arxiv.org/abs/1601.05818&quot;&gt;arXiv:1601.05818&lt;/a&gt;). In a traditional “real-space” optical lattice setup, a standing wave of light (laser hitting a mirror) creates a periodic lattice potential for atoms that looks like a bunch of potential wells separated in space. (The light gives an intensity-dependent shift to the atoms’ energy levels - &lt;em&gt;AC Stark effect&lt;/em&gt; - trapping the atoms at the peaks of the standing wave.) Atoms can then tunnel through the barriers between wells, and you can do things to the lattice like apply a tilt, shake it, or make the wells really deep to restrict tunneling. The point of this whole thing is &lt;em&gt;quantum simulation&lt;/em&gt;: atoms in this optical lattice behave like any quantum particles in a lattice, so you can use this system to study, for example, electrons in a crystal.&lt;/p&gt;
+
+&lt;p&gt;Our approach is to make a similar periodic structure, but instead of potential wells separated in position, ours are separated in momentum. &lt;strong&gt;To create these momentum states&lt;/strong&gt;, we shine on our atoms a laser with wavelength $\lambda=1064~$nm and wavenumber $k=2\pi/\lambda$. Because an atom can only absorb one photon and then emit one photon at a time, the atoms can only get a momentum kick of two times the photon momentum: $\pm 2 \hbar k$. So, the atoms’ momentum is restricted to discrete momentum states $p_n = 2 n \hbar k$ for integer $n$. The atoms are just free particles, so the energy of these states is just the kinetic energy $E_n = \dfrac{p_n^2}{2m}$ (where $m$ is the mass of the atom).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To make a lattice out of these states&lt;/strong&gt;, we need to couple them. To couple two states $n$ and $n+1$, we do what any atomic physicist would do and apply a laser field at the exact energy difference between the states ($E_{n+1}-E_n$)… or we would if the energy difference weren’t so small (corresponding to frequencies on the kHz scale). Instead, we use &lt;em&gt;two&lt;/em&gt; lasers with a frequency difference that matches the energy difference between the states (this two-laser method is called a &lt;em&gt;Raman transition&lt;/em&gt;). Atoms in state $n$ are then connected to state $n+1$ and population oscillates between the two states (&lt;em&gt;Rabi oscillations&lt;/em&gt;). &lt;strong&gt;This is a two-site lattice&lt;/strong&gt;, and we can easily couple more states by putting more pairs of lasers with different frequencies onto the atoms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The physical implementation&lt;/strong&gt; is very simple: a pair of acousto-optic modulators (&lt;em&gt;AOMs&lt;/em&gt;). These devices are small crystals that can take in some radio frequency (around 80 MHz) and put that frequency onto a laser passing through. So, we just hook this to an arbitrary waveform generator which can output a bunch of different frequencies. The workflow is thus: we generate the actual waveform in Mathematica by adding up our desired frequencies, sampling that discretely, and outputting it to a text file. Then we pass that to the arbitrary waveform generator, which generates an oscillating voltage signal that then goes through some amplifiers into our AOM, which writes the frequencies onto the laser. The laser then hits the atoms and addresses the transitions between momentum states, creating the MOMENTUM-SPACE LATTICE. (There’s a small caveat here: because the transition frequencies between momentum states are on the kHz scale, we need to use two AOMs: one to add 80 MHz and the transition frequencies, and another to take away the 80 MHz.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To control lattice parameters&lt;/strong&gt;, we just change the different parameters of the lasers. To control the “tunneling amplitude” or how fast the atoms oscillate between states, we just change the power in the lasers. To add a “tunneling phase” or a phase onto the atoms’ wavefunction as they tunnel, we just put a phase onto the laser. Finally, we can control the “site energy” by detuning the laser frequency. A feature of our system is the possibility to just cut off the lattice abruptly, making “hard wall” boundaries. This is in contrast to real-space lattices, where the lattice just keeps going on and on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For measurement&lt;/strong&gt;, we do the most basic cold atom technique: drop the atoms, or &lt;em&gt;time-of-flight&lt;/em&gt;. By releasing any trapping lasers, the atoms fall due to gravity. Because we do the momentum stuff perpendicular to gravity, atoms in different momentum states start flying apart, and we can take a picture when they’re fully separated to read out how much population is in each state.&lt;/p&gt;
+
+&lt;p&gt;The actual “picture taking” method we use is &lt;em&gt;absorption imaging&lt;/em&gt;, which means we send in a weak laser beam which is resonant with some transition of the atoms. The atoms absorb photons, get excited to some higher state, and get blasted away in the process. The laser then goes onto a CCD camera, and we take a picture showing the shadows of the atoms, from which we can back out how many atoms were in each location.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;three-quick-experiments&quot;&gt;Three quick experiments&lt;/h2&gt;
+&lt;p&gt;The three lattices we made in this paper were:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Flat lattices with 21 sites (states $n=-10$ to $10$) and 5 sites ($n=-2$ to $2$)&lt;/li&gt;
+  &lt;li&gt;21 site lattice with a tilt to the site energies.&lt;/li&gt;
+  &lt;li&gt;21 site lattice with all tunnelings flipping sign after some time (adding a tunneling phase of $\pi$)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I just realized, over 3 years later, that these three experiments all show very similar results: population traveling from the initial site ($n=0$) and coming back. The physics behind the three are completely different, though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mp1_flatlattice.png&quot; alt=&quot;drawing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lattice that is as ordinary as it gets: 21 sites on the left, 5 sites on the right. Atoms begin in the center at $n=0$, and spread out as time progresses (downward vertical axis). In the 5 site case, atoms hit the end of the lattice and come back! This demonstrates our ability to make “hard walls” in the lattice, which has been pretty helpful in some of our studies!&lt;/p&gt;
+
+&lt;p&gt;One thing to note is that each horizontal line in this plot is a separate data run (actually an average of several). Our measurement destroys the BEC, so we need to repeat the experiment many times at different times to see the full motion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mp1_tiltedlat.png&quot; alt=&quot;drawing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lattice with a tilt: each site is $\Delta E = \hbar\xi$ (this choice of variable was terrible) away from its neighbors. Classically, this is putting a ball on a slope: it rolls downhill. In the quantum world and in a lattice, atoms don’t just keep moving downhill but instead show oscillations, in a great display of how weird the quantum world can be. These &lt;em&gt;Bloch oscillations&lt;/em&gt; are a byproduct of the periodic structure of the lattice, and the oscillation frequency depends directly on the magnitude of the tilt: fig. (c) shows us tilting at three different values.&lt;/p&gt;
+
+&lt;p&gt;An aside:
+Usually for real space lattices people talk about the &lt;em&gt;band structure&lt;/em&gt; of the lattice, or how the energy of the lattice states depend on the momentum, $E(k)$. This is periodic like the position, so it results in oscillations. In our confusingly-named momentum-space lattice, we can still think about band structure, but at one extra level of abstraction: because our sites are spaced in momentum, perhaps the band structure should then be the Fourier transform… position? This is generally just too confusing to talk about, so I just say it’s $E(k)$ or $E(q)$ anyway ($q$ is &lt;em&gt;quasimomentum&lt;/em&gt;, or momentum in a lattice).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mp1_tunreversal.png&quot; alt=&quot;drawing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, we switched all the tunneling phases halfway through to show two very nice aspects of our momentum space setup: we can control tunneling phases (important for studying topology, which we later did!), and we can control lattice parameters precisely as a function of time. Figs. b-d show faster tunneling switching, until it’s so fast that atoms don’t have the change to move before they get turned around.&lt;/p&gt;
+
+&lt;p&gt;This I think was the birth of me and Eric’s obsession with designing and making figures. Look at that shaded area - simple and elegant!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This post was too long. I wanted to make it detailed, but I made it stupidly long and betrayed my vision of a bare-bones summary of the paper. Hopefully I can refer back to this post for background on momentum-space lattices, though.&lt;/p&gt;
+
+&lt;p&gt;P.S.: I’m not entirely sure about the legality/convention that I should use with figures from papers. I think I’ll just go ahead and grab figures and tack on some citations.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><category term="my papers" /><summary type="html">Cold atoms in momentum-space lattices</summary></entry><entry><title type="html">Quantum Gas Microscopy</title><link href="http://localhost:4000/2019/03/06/QGMs.html" rel="alternate" type="text/html" title="Quantum Gas Microscopy" /><published>2019-03-06T00:00:00-08:00</published><updated>2019-03-06T00:00:00-08:00</updated><id>http://localhost:4000/2019/03/06/QGMs</id><content type="html" xml:base="http://localhost:4000/2019/03/06/QGMs.html">&lt;p&gt;I gave a 1-hour talk about Quantum Gas Microscopy at a CM/AMO journal club last month, and it was filled with stupid jokes and memes like all of my presentations. I went through the history of single-atom+single-lattice-site observation in cold atom systems, and then described in detail some 2018 results on antiferromagnetism from the Bloch group. Below I’ve linked the presentation and a latex document with all the citations I looked at to make the talk.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/other/QGMs.pptx&quot;&gt;Powerpoint presentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/other/QGM_citations.pdf&quot;&gt;PDF overview/citations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk was aimed at physicists with some background/interest in condensed matter (CM) and atomic, molecular, and optical (AMO) physics, but to exercise my writing a little, I’ll try to give some background for the talk here, hopefully aimed at the level of an undergrad physics major (?).&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;This will probably go into an easily accessible page somewhere on this site because it’s background for my entire field.&lt;/p&gt;
+
+&lt;p&gt;The general field is called &lt;strong&gt;quantum simulation&lt;/strong&gt; with &lt;strong&gt;cold atoms&lt;/strong&gt; in &lt;strong&gt;optical lattices&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The point is to put atoms in periodic lattices, and use that to mimic, for example, electrons in solids (also periodic). It’s called “quantum simulation” because it’s using a simple quantum system to simulate a more complicated quantum system. This is in contrast to “normal” simulation by writing some code on a computer, which takes much longer for large quantum systems (infinitely long).&lt;/p&gt;
+
+&lt;p&gt;The atoms usually need to be cold (for “quantum” to make sense, etc.) and basically means Bose-Einstein condensates and their fermion counterparts, degenerate Fermi gases. These are always gases, so they’re also called “quantum gases.”&lt;/p&gt;
+
+&lt;p&gt;The periodic lattices are made by shining a laser on a mirror, which creates a standing wave. If the laser wavelength is chosen correctly (with respect to the atom’s energy levels), this makes a periodic potential for the atoms. You can do this in two perpendicular directions to make a 2D optical lattice, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;quantum-gas-microscopes&quot;&gt;Quantum Gas Microscopes&lt;/h2&gt;
+&lt;p&gt;Quantum gas microscopes refer to measuring cold atoms in optical lattices at single-atom and single-site resolution. This means that with QGMs, you can see individual atoms in individual lattice sites.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Implementation&lt;/strong&gt;: Basically you just need a really big lens and put it really close to your atoms, so you get a huge magnification. One problem is that you can’t make something like this out of just one lens, so the “objectives” that people use are some complicated series of lenses in a big tube that you can just buy from optics wizards.&lt;/p&gt;
+
+&lt;p&gt;Another issue is the imaging process itself: to see a single atom, you need to be able to capture a bunch of photons from it. For fluorescence imaging, you pump the atom with some laser to excite it to some higher internal state, and then look at the photon that comes out via spontaneous/stimulated emission as it decays back down to the ground state. This cycle needs to be repeated many times, and the atom naturally gets kicked around due to momentum conservation as it emits photons. To prevent the atom from kicking around too much (heating), you need to cool the atoms while you image. Luckily, standard laser cooling techniques developed back in the 80s already emit light that you can capture (optical molasses/sisyphus cooling)… for bosons.&lt;/p&gt;
+
+&lt;p&gt;For fermions, these cooling techniques don’t work very well so it took a while for people to figure out and implement things like EIT and Raman sideband cooling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;: While people were imaging single trapped atoms as early as 1994, the tight spacing of an optical lattice (about 500 microns) meant it wasn’t until 2009 that the first BEC microscope was constructed by Markus Greiner, followed closely by Immanuel Bloch. Fermion microscopes took longer due to the cooling issue, but five groups sort of simultaneously announced their results over the course of 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antiferromagnetism in the 1D and 2D Fermi-Hubbard model&lt;/strong&gt;
+This was the specific topic I tried to discuss in my talk, and it’s based on a trio of papers by the group of Christian Gross and Immanuel Bloch:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1702.00642&quot;&gt;Revealing hidden antiferromagnetic correlations in doped Hubbard chains via string correlators&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1803.08892&quot;&gt;Direct observation of incommensurate magnetism in Hubbard chains&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/1811.06907&quot;&gt;Imaging magnetic polarons in the doped Fermi-Hubbard model&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These papers form a nice story about research using a fermionic QGM. Because it’s very difficult to describe three papers, I’ll just give a really, really basic overview and fill it in later if I have the time/effort (read: never).&lt;/p&gt;
+
+&lt;p&gt;In the model that this group studied, the spins of the fermionic atoms ordered themselves into an alternating pattern of spin up/spin down (antiferromagnetic order). In the &lt;strong&gt;first paper&lt;/strong&gt;, this group found that if you “dope” the system by inserting an extra atom (“doublon”) or removing an atom (“hole”), the spin up/spin down pattern still stays around, but just skips over the hole or doublon.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;strong&gt;second paper&lt;/strong&gt;, the group varied the amount of holes or doublons they put in, and found that the period of the spin up/spin down pattern would vary linearly with the density of dopants. Then they took it in a really interesting direction by slowly making their 1D chains into a 2D lattice, and found that the dopants act drastically differently in 2D….&lt;/p&gt;
+
+&lt;p&gt;In the &lt;strong&gt;third paper&lt;/strong&gt;, the group studied more about the weird 2D behavior, which showed that a dopant in 2D could completely destroy the AFM order in a small region around itself. (This is in stark contrast to 1D, where the order/pattern “skips” over the dopants like they don’t exist.) They called this dopant a “polaron” and showed that by pinning the polaron in place, the pattern/AFM order recovered a little… meaning that the movement of the dopant is what destroys the AFM order.&lt;/p&gt;
+
+&lt;p&gt;The bigger picture here is that by understanding the behavior of polarons and particles in this antiferromagnetic regime, we may understand parts of the more general model (Fermi-Hubbard model) which is predicted to show signs of superconductivity.&lt;/p&gt;</content><author><name>alex an</name></author><category term="physics" /><category term="survey" /><summary type="html">A 1 hr. talk I gave about the field of QGMs</summary></entry></feed>
