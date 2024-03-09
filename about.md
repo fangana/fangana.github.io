@@ -20,6 +20,8 @@ title: About
 
 [Curriculum Vitamin (updated 2022)](/assets/docs/AlexAnResume2022.pdf)
 
+[Google Scholar](https://scholar.google.com/citations?user=W4q3bs0AAAAJ&hl=en)
+
 # About this site
 
 This is my personal blog!!
