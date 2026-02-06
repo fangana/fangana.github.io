@@ -11,7 +11,7 @@ title: About
 
 - **boba**
 
-- **AOSense** 2023
+- **AOSense** 2023-Present
 - **Honeywell Quantum Solutions/Quantinuum** 2020-2023
 - **UIUC** Ph.D. 2020
 - **Harvey Mudd College** B.S. 2014
