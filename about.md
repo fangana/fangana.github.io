@@ -9,8 +9,6 @@ title: About
 
 ## Fangzhao Alex An
 
-- **boba**
-
 - **AOSense** 2023-Present
 - **Honeywell Quantum Solutions/Quantinuum** 2020-2023
 - **UIUC** Ph.D. 2020
@@ -18,7 +16,7 @@ title: About
     - ["Research"](/assets/vids/rotatinglight.mp4) - 03/11/2014 (cred to Obosa)
 
 
-[Curriculum Vitamin (updated 2022)](/assets/docs/AlexAnResume2022.pdf)
+[Curriculum Vitamin (updated 2026)](/assets/docs/AlexAnResume2026.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?user=W4q3bs0AAAAJ&hl=en)
 
